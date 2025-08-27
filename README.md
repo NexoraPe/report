@@ -94,7 +94,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.*
 
 # Contenido
 
-- [Carátula](#carátula)
+- [Carátula](#course-project)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
@@ -151,7 +151,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.*
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams) 
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
   - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
@@ -314,9 +314,9 @@ referido debe colocarse también de forma idéntica en su informe.*
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 
 ## 4.5. Web Applications Prototyping.
