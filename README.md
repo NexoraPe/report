@@ -224,7 +224,12 @@ del ABET – EAC - Student Outcome 3.
 ### 1.1.1. Descripción de la Startup
 [Contenido]
 ### 1.1.2. Perfiles de integrantes del equipo
-[Contenido]
+| Foto | Nombre y Apellidos | Código de Estudiante | Carrera | Resumen de Conocimientos y Habilidades |
+|------|--------------------|----------------------|---------|----------------------------------------|
+| ![Foto 1](https://github.com/user-attachments/assets/5ce9542d-aa72-4810-b37e-0b73cc5fb690) | **Diego Alonso Cacho Seminario** | u202223990 | Ingeniería de Software | EJEMPLO DE IA XDD (CAMBIARLO A TU GUSTO): Experto en desarrollo web con Vue.js, dominio de bases de datos relacionales y metodologías ágiles. Aporta habilidades en programación, documentación técnica y liderazgo de equipo. |
+| ![Foto 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz01csRLpbqGIyVwHlDMGyrk1jJ0VKkgej5A&s) | **Amir Gabriel Castro Sanchez** | u202310680 | Ingeniería de Software | EJEMPLO DE IA (CAMBIARLO A TU GUSTO): Conocimientos en ciberseguridad, análisis de sistemas y modelado UML. Aporta al equipo su capacidad de análisis crítico y estructuración de soluciones escalables. |
+| ![Foto 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB9wYiFHRASr2QzEUpnnjQ8PDj7tmkkFJ5g&s) | **Guillermo Fabián Tantaleán Mesta** | u202311958 | Ingeniería de Software | EJEMPLO DE IA (CAMBIARLO A TU GUSTO): Especialista en machine learning y ciencia de datos. Aporta experiencia en análisis estadístico, programación en Python y visualización de datos. |
+| ![Foto 4](https://github.com/user-attachments/assets/bdd14d4d-1888-4244-8a1b-842034bfa6eb) | **Miguel Angel Vidal Castro** | u202314186 | Ingeniería de Software | EJEMPLO DE IA (CAMBIARLO A TU GUSTO): Conocimientos en gestión de proyectos y optimización de procesos. Aporta al equipo su enfoque en eficiencia, coordinación y manejo de recursos. |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
