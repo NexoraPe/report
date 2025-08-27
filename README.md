@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <strong>Profesor: </strong>Alberto Wilmer Sánchez Seña
+    <strong>Profesor: </strong>Bautista Ubillús, Efraín Ricardo
 </p>
 
 <p align="center">
