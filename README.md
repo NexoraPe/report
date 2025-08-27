@@ -44,12 +44,12 @@
             <th style="text-align:center;">Código</th>
         </tr>
         <tr>
-            <td>Castro Sanchez, Amir Gabriel</td>
-            <td>u202310680</td>
-        </tr>
-        <tr>
             <td>Cacho Seminario, Diego Alonso</td>
             <td>u202223990</td>
+        </tr>
+        <tr>
+            <td>Castro Sanchez, Amir Gabriel</td>
+            <td>u202310680</td>
         </tr>
         <tr>
             <td>Tantaleán Mesta, Guillermo Fabián</td>
@@ -198,23 +198,23 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.*
 
 # Student Outcome
 
-Temporal => *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los
-sustentos y evidencias de las actividades realizadas en el trabajo final han ayudado a
-desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe
-quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el
-trabajo que han realizado. Esto se complementa con lo reflejado en los testimonios
-expuestos que forman parte del video About The Team.
-La sección inicia en una nueva página. Debe incluir el párrafo introductorio y el
-cuadro de Student Outcome tal como se indica en la sección de Anexos de este
-documento. En las celdas Acciones realizadas, debe especificarse cada participante:
-Apellidos, Nombres y a continuación, cada entrega (TB1, TB2, etc.) con las acciones
-específicas realizadas que se relacionen con el criterio del Outcome al que
-corresponda la celda. Esta celda se irá expandiendo en cada entrega. Las celdas
-Conclusiones se llenan de forma grupal y son acumulables, es decir se van
-expandiendo en cada entrega. Vea especificaciones sobre cómo estructurar esta
-sección en el Anexo A. Estructura para la sección Objetivo del Estudiante (Student
-Outcome). El párrafo introductorio antes del cuadro que se aprecia en el anexo
-referido debe colocarse también de forma idéntica en su informe.*
+<div style="page-break-after: always;">
+
+El curso contribuye al cumplimiento del Student Outcome ABET:<br>
+**ABET – EAC - Student Outcome 3**
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br> | Conclusion Aqui |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** |**Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br> | Conclusion Aqui |
+
+
+<div style="page-break-after: always;">
 
 ---
 
