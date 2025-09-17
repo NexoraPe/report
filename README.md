@@ -410,7 +410,19 @@ Esto facilita actualizaciones y mantenimiento, además de ofrecer al usuario una
 Las secciones se distinguen visualmente, ayudando a segmentar la información sin sobrecargar la página.
 
 
-### 4.2.2. Labeling Systems.
+---
+
+### 4.2.2. Labeling Systems  
+
+**Menú principal**  
+Las etiquetas en el menú son claras y directas: **“Home”, “About Us”, “Services”, “Plans”, “Testimonials”, “FAQ” y “Contact”**.  
+Esto asegura que el usuario sepa exactamente qué esperar al hacer clic, mejorando la usabilidad.  
+
+**Botones de acción**  
+Los botones usan verbos de acción concisos como **“Start Now”, “Learn More” y “Back”**, lo que facilita la toma de decisiones rápidas y la interacción con la plataforma.  
+
+**Formulario**  
+Los campos están etiquetados con términos sencillos y comprensibles, como **“Name”, “Email”, y “Message”**, para asegurar que los usuarios puedan completarlos sin dudas o errores.  
 
 ### 4.2.3. SEO Tags and Meta Tags
 
