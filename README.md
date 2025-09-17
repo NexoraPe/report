@@ -426,6 +426,25 @@ Los campos están etiquetados con términos sencillos y comprensibles, como **�
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+La plataforma SafeWork incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
+
+Título: La etiqueta <title> es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
+
+<img width="578" height="19" alt="Image" src="https://github.com/user-attachments/assets/80eb332d-b023-4ad2-93d4-f2a3239f9098" />
+
+Descripción: La meta descripción proporciona un resumen breve del contenido de sitio. Es clave para mejorar la visibilidad y el CTR en motores de búsqueda como Google.
+
+<img width="725" height="75" alt="Image" src="https://github.com/user-attachments/assets/241b7211-01de-41f3-9e17-0cad13913afb" />
+
+Palabras clave: Ayuda a relacionar el sitio en términos de búsqueda relevantes, aunque actualmente tiene poco peso en algoritmos de búsqueda.
+
+
+
+Derechos de autor: Indica el autor del contenido o la organización responsable del sitio web.
+Responsividad: Garantiza que el sitio se vea correctamente en dispositivo móviles, tabletas y pantallas de diferentes tamaños.
+
+<img width="542" height="19" alt="Image" src="https://github.com/user-attachments/assets/5e8902ca-d6a3-43f4-9bac-38d3fc89f63a" />
+
 ### 4.2.4. Searching Systems.
 
 ### 4.2.5. Navigation Systems.
