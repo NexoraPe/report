@@ -469,6 +469,24 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
+<img width="658" height="345" alt="Image" src="https://github.com/user-attachments/assets/09868085-60ed-4896-b8ce-247c0d168524" />
+
+<img width="657" height="530" alt="Image" src="https://github.com/user-attachments/assets/591c2aa6-72de-4749-92cb-534669f58035" />
+
+<img width="657" height="566" alt="Image" src="https://github.com/user-attachments/assets/4bd4fb59-6910-4afc-ba82-56b48ecac19f" />
+
+<img width="660" height="564" alt="Image" src="https://github.com/user-attachments/assets/5ffcd15c-451e-405d-ab1e-35c28b9b2359" />
+
+<img width="657" height="327" alt="Image" src="https://github.com/user-attachments/assets/65062db1-5bcf-4e4d-aec6-b6a4cef652a4" />
+
+<img width="658" height="540" alt="Image" src="https://github.com/user-attachments/assets/4d94dddf-98d2-4486-a892-defddee0c86b" />
+
+<img width="657" height="552" alt="Image" src="https://github.com/user-attachments/assets/a7e49de8-59cc-43a8-b0d0-0ab509a644a3" />
+
+<img width="658" height="214" alt="Image" src="https://github.com/user-attachments/assets/8b8ce5b8-0af3-4ec1-b601-6f81a1060b99" />
+
+
+
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design.
