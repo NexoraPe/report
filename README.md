@@ -447,6 +447,8 @@ Responsividad: Garantiza que el sitio se vea correctamente en dispositivo móvil
 
 ### 4.2.4. Searching Systems.
 
+Actualmente no hay un sistema de búsqueda implementado. Se recomienda considerar esta funcionalidad en futuras versiones para mejorar la experiencia del usuario en sitios con gran volumen de contenido.
+
 ### 4.2.5. Navigation Systems.
 
 ## 4.3. Landing Page UI Design.
