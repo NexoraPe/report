@@ -305,11 +305,15 @@ Para los textos generales se usa **Montserrat**, una fuente pensada para pantall
 Esta combinación crea una jerarquía visual efectiva que guía al usuario de forma intuitiva y ordenada a lo largo de toda la plataforma.  
 
 **Figura 1:**  
-Uso de la tipografía **"Raleway"** en encabezados *(IMAGEN)*  
+Uso de la tipografía **"Raleway"** en encabezados
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/38728751-2ad1-4f38-ac13-b584c1d69c54" />
+
 Fuente: [1001 Fonts - Raleway](https://www.1001fonts.com/raleway-font.html)  
 
 **Figura 2:**  
-Uso de la tipografía **"Montserrat"** en textos generales *(IMAGEN)*  
+Uso de la tipografía **"Montserrat"** en textos generales
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/23decf9b-8a59-42e5-8fe1-e4ee2312c9fe" /> 
+
 Fuente: [1001 Fonts - Montserrat](https://www.1001fonts.com/montserrat-font.html)  
 
 ---
@@ -325,17 +329,25 @@ Para garantizar una lectura clara, se utilizan textos en **blanco** y **grises s
 
 En conjunto, esta paleta genera un entorno profesional, accesible y visualmente equilibrado, adaptado a dispositivos modernos.  
 
-**Figura 1:** Colores del texto *(IMAGEN)*  
-👉 [Paleta en Coolors](https://coolors.co/ffffff-000000-7b7dc1)  
+**Figura 1:** Colores del texto
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/fa6069e5-d854-492c-82b7-6020becddd1e" />
 
-**Figura 2:** Colores principales *(IMAGEN)*  
-👉 [Paleta en Coolors](https://coolors.co/0d0c22-7b7dc1-5a5ca0-1a1835)  
+[Paleta en Coolors](https://coolors.co/ffffff-000000-7b7dc1)  
 
-**Figura 3:** Colores secundarios *(IMAGEN)*  
-👉 [Paleta en Coolors](https://coolors.co/444654-888a9c-e1e3ec)  
+**Figura 2:** Colores principales
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/dd4c5a6b-8aac-4f18-87cb-f35c35d408b8" />
 
-**Figura 4:** Colores aplicados en wireframes *(IMAGEN)*  
-👉 [Paleta en Coolors](https://coolors.co/f0f0f0-bdbdbd-b3b3b3-3f3f3f-2e2e2e)  
+[Paleta en Coolors](https://coolors.co/0d0c22-7b7dc1-5a5ca0-1a1835)  
+
+**Figura 3:** Colores secundarios
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/037fd2b4-e65c-4e6c-8fed-ad1956134894" />
+
+[Paleta en Coolors](https://coolors.co/444654-888a9c-e1e3ec)  
+
+**Figura 4:** Colores aplicados en wireframes
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/cb7cf89e-bd8f-4634-9b8f-fa7d8a6aa17c" />
+
+[Paleta en Coolors](https://coolors.co/f0f0f0-bdbdbd-b3b3b3-3f3f3f-2e2e2e)  
 
 ---
 
