@@ -397,7 +397,18 @@ Estas animaciones no distraen, sino que aportan una experiencia más fluida y na
 
 
 ## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
+### 4.2.1. Organization Systems  
+
+**Jerárquico**  
+La estructura de la plataforma sigue un sistema jerárquico claro donde la página principal (landing) actúa como punto central.  
+Desde ahí, el usuario puede acceder a secciones específicas como **“About Us”, “Services”, “Plans”, “Testimonials”, “FAQ” y "Benefits"**.  
+Esta organización permite que la información fluya de lo general a lo particular, facilitando la exploración y comprensión.  
+
+**Modular y Seccional**  
+Cada sección está diseñada como un módulo independiente, con contenido y funcionalidades específicas.  
+Esto facilita actualizaciones y mantenimiento, además de ofrecer al usuario una experiencia limpia y enfocada.  
+Las secciones se distinguen visualmente, ayudando a segmentar la información sin sobrecargar la página.
+
 
 ### 4.2.2. Labeling Systems.
 
