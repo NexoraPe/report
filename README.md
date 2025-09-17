@@ -296,6 +296,68 @@ del ABET – EAC - Student Outcome 3.
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 
+# Tipografía  
+
+En **SafeWork** se utilizan dos tipografías que aseguran una experiencia clara y profesional.  
+**Raleway** se aplica en títulos y botones por su estilo moderno, limpio y llamativo, lo que ayuda a resaltar secciones importantes.  
+Para los textos generales se usa **Montserrat**, una fuente pensada para pantallas, que ofrece excelente legibilidad en cualquier dispositivo.  
+
+Esta combinación crea una jerarquía visual efectiva que guía al usuario de forma intuitiva y ordenada a lo largo de toda la plataforma.  
+
+**Figura 1:**  
+Uso de la tipografía **"Raleway"** en encabezados *(IMAGEN)*  
+Fuente: [1001 Fonts - Raleway](https://www.1001fonts.com/raleway-font.html)  
+
+**Figura 2:**  
+Uso de la tipografía **"Montserrat"** en textos generales *(IMAGEN)*  
+Fuente: [1001 Fonts - Montserrat](https://www.1001fonts.com/montserrat-font.html)  
+
+---
+
+# Colores principales  
+
+La elección de colores en **SafeWork** refuerza la identidad visual de la marca y guía la experiencia del usuario.  
+El **violeta oscuro** `#7B7DC1` se establece como principal, comunicando confianza, seguridad y modernidad, cualidades clave para una plataforma enfocada en la prevención de riesgos laborales.  
+
+Este tono se combina con un **fondo oscuro** `#0D0C22` que aporta contraste, elegancia y reduce la fatiga visual en pantallas.  
+
+Para garantizar una lectura clara, se utilizan textos en **blanco** y **grises suaves**, mientras que los botones y elementos interactivos mantienen un estilo llamativo pero coherente.  
+
+En conjunto, esta paleta genera un entorno profesional, accesible y visualmente equilibrado, adaptado a dispositivos modernos.  
+
+**Figura 1:** Colores del texto *(IMAGEN)*  
+👉 [Paleta en Coolors](https://coolors.co/ffffff-000000-7b7dc1)  
+
+**Figura 2:** Colores principales *(IMAGEN)*  
+👉 [Paleta en Coolors](https://coolors.co/0d0c22-7b7dc1-5a5ca0-1a1835)  
+
+**Figura 3:** Colores secundarios *(IMAGEN)*  
+👉 [Paleta en Coolors](https://coolors.co/444654-888a9c-e1e3ec)  
+
+**Figura 4:** Colores aplicados en wireframes *(IMAGEN)*  
+👉 [Paleta en Coolors](https://coolors.co/f0f0f0-bdbdbd-b3b3b3-3f3f3f-2e2e2e)  
+
+---
+
+# Estilo visual  
+
+El diseño utiliza una paleta centrada en tonos **violetas oscuros** `#7B7DC1` y fondos **azul muy oscuro** `#0D0C22`, que transmiten profesionalismo y calma.  
+
+Los textos **blancos** `#FFFFFF` y **grises claros** (`#888A9C`, `#E1E3EC`) garantizan alta legibilidad y contraste, incluso en dispositivos con bajo brillo.  
+
+Las formas **suaves y redondeadas** crean una apariencia moderna y amigable, que facilita la navegación sin distraer al usuario.  
+
+---
+
+# Interactividad  
+
+Los elementos interactivos, como botones y tarjetas, incluyen **transiciones suaves** y **efectos de hover** que mejoran la experiencia táctil.  
+
+- Los botones cambian de color de `#7B7DC1` a `#5A5CA0`.  
+- Las tarjetas se **elevan ligeramente** al pasar el cursor, ofreciendo **feedback visual inmediato**.  
+- El **scroll con desplazamiento suave** permite una navegación fluida y natural entre secciones, favoreciendo la usabilidad en todos los dispositivos.  
+
+
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
