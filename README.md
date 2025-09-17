@@ -451,6 +451,21 @@ Actualmente no hay un sistema de búsqueda implementado. Se recomienda considera
 
 ### 4.2.5. Navigation Systems.
 
+**Navegación superior**  
+El menú principal está ubicado en la parte superior, con enlaces directos a las secciones principales, facilitando el acceso rápido y visible en todo momento.  
+
+**Flujo lógico**  
+El recorrido del usuario está diseñado para ser intuitivo y lineal, desde la introducción en la landing hacia secciones específicas según su interés, sin pasos innecesarios ni confusión.  
+
+**Internacionalización**  
+Se incluye un conmutador de idioma sencillo, permitiendo cambiar entre idiomas sin recargar la página, mejorando la accesibilidad para usuarios internacionales.  
+
+**Footer con navegación secundaria**  
+El pie de página complementa la navegación con enlaces a información adicional, redes sociales y contacto, reforzando el acceso a contenido importante sin saturar el menú principal.  
+
+**Estructura modular**  
+La arquitectura modular permite agregar, modificar o eliminar secciones sin afectar el resto de la página, facilitando la escalabilidad y mantenimiento del sitio.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
