@@ -369,8 +369,32 @@ Los elementos interactivos, como botones y tarjetas, incluyen **transiciones sua
 - Las tarjetas se **elevan ligeramente** al pasar el cursor, ofreciendo **feedback visual inmediato**.  
 - El **scroll con desplazamiento suave** permite una navegación fluida y natural entre secciones, favoreciendo la usabilidad en todos los dispositivos.  
 
+## 4.1.2. Web Style Guidelines  
 
-### 4.1.2. Web Style Guidelines.
+### Responsividad  
+El diseño es completamente **responsivo**, adaptándose a diferentes tamaños de pantalla desde móviles hasta escritorios.  
+Se utilizan *media queries* para reorganizar elementos, como pasar de diseños en fila a columna, y ajustar tamaños y espacios, garantizando que el contenido sea accesible y legible en cualquier dispositivo.  
+
+### Componentes  
+Los componentes como **botones, tarjetas y menús** están diseñados con un estilo coherente y sencillo.  
+- Botones con bordes redondeados y colores destacados para llamadas a la acción.  
+- Tarjetas con sombras suaves y espaciados definidos para mejorar la lectura.  
+
+Todo mantiene una **jerarquía visual clara y consistente**.  
+
+### Accesibilidad  
+Se prioriza el **contraste alto** entre texto y fondo para facilitar la lectura a personas con baja visión.  
+Además:  
+- Los enlaces y botones son navegables mediante **teclado**.  
+- Se usan **etiquetas semánticas** para mejorar la comprensión de lectores de pantalla.  
+
+### Animaciones suaves  
+Las interacciones incluyen **transiciones y efectos sutiles**, como:  
+- Cambio de color en botones.  
+- Elevación ligera de tarjetas al pasar el cursor.  
+
+Estas animaciones no distraen, sino que aportan una experiencia más fluida y natural, ayudando a **guiar al usuario visualmente sin sobrecargar la interfaz**.  
+
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
