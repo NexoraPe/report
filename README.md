@@ -1101,7 +1101,11 @@ Incluye atributos como datos personales, roles, permisos y estado de la cuenta. 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
----
+En esta sección se presentan los diagramas de base de datos correspondientes a cada Bounded Context del sistema. 
+Los diagramas muestran las tablas, sus columnas, tipos de datos, claves primarias y foráneas, 
+así como las relaciones entre las tablas, garantizando la persistencia correcta de la información.
+
+![DatabaseDiagram](./imgs/DatabaseDiagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
