@@ -1008,9 +1008,52 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 
 ### 4.6.2. Software Architecture Context Diagram.
 
+El diagrama de contexto muestra a los dos actores principales —**Encargado** y **Trabajador**— interactuando con la plataforma **SafeWork**, así como la relación con los contenedores principales.  
+Este nivel refleja la visión global del sistema y cómo los usuarios acceden a él.  
+
+![imgs](./imgs/contextdiagram.png)
+
 ### 4.6.3. Software Architecture Container Diagrams.
 
+El diagrama de contenedores descompone **SafeWork** en sus partes principales:  
+- **Landing Page** como punto de entrada.  
+- **Web App** para la interacción de usuarios.  
+- **API REST** que centraliza la lógica de negocio.  
+- Los 5 **Bounded Contexts**: *Incidents, Assignment, Notification, Analytics y Profile*.  
+
+![imgs](./imgs/containterdiagram.png)
+
 ### 4.6.4. Software Architecture Components Diagrams.
+
+#### 1. Incident Service 
+Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre.  
+Incluye la máquina de estados, el agregado de dominio y el repositorio para persistencia. 
+
+![imgs](./imgs/component1.png)
+
+#### 2. Assignment Service
+Contiene la lógica de asignación de responsables y reglas de SLA.  
+Su motor central define a quién se asigna un incidente y maneja la reasignación automática.
+
+![imgs](./imgs/component2.png)
+
+#### 3. Notification Service
+Responsable de enviar notificaciones vía push, SMS o correo electrónico.  
+Se abstrae mediante un adaptador que permite integrar distintos proveedores de mensajería. 
+
+![imgs](./imgs/component3.png)
+
+#### 4. Analytics & Reporting
+Procesa los eventos publicados en el **Event Bus** para generar reportes, métricas y dashboards en tiempo real.  
+Se apoya en un pipeline de eventos y un almacén analítico.  
+
+![imgs](./imgs/component4.png)
+
+#### 5. Auth Service 
+Encargado de la autenticación y autorización de usuarios.  
+Implementa SSO, OAuth2 y JWT para validar identidad y permisos de acceso.
+
+![imgs](./imgs/component5.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
