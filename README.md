@@ -1236,13 +1236,39 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
+
+- TB1:
+La propuesta de **SafeWork** surge como una respuesta directa a las necesidades identificadas en el ámbito de la seguridad y salud en el trabajo. Su idea de valor se centra en ofrecer a trabajadores y personal de SST una plataforma confiable, ágil y transparente para reportar, gestionar y dar seguimiento a accidentes e incidentes laborales. A diferencia de los sistemas internos tradicionales, que suelen presentar fallas técnicas, procesos burocráticos o limitaciones de acceso, SafeWork busca garantizar que cada reporte sea rápido de registrar, fácil de rastrear y seguro en el manejo de la información.
+
+En conjunto, lo avanzado hasta la entrega TB1 permite concluir que **SafeWork** representa una solución innovadora y viable para digitalizar, simplificar y dar transparencia al proceso de gestión de incidentes laborales, aportando valor tanto a los trabajadores que buscan seguridad y claridad como al personal de SST que requiere herramientas efectivas para gestionar casos y tomar decisiones preventivas. 
+
+- TP1: 
+
+……
+
+……
+
+- TB2: 
+
+……
+
+……
+
+- TF: 
+
+……
+
+……
+
 ## Video About-the-Team.
 
 ---
 
 # Bibliografía
 
----
+Más de 2,800 inspecciones de accidentes de trabajo realizó la Sunafil entre el 2023 y 2024*. (n.d.). Noticias \- Superintendencia Nacional De Fiscalización Laboral \- Plataforma Del Estado Peruano. [https://www.gob.pe/institucion/sunafil/noticias/964567-mas-de-2-800-inspecciones-de-accidentes-de-trabajo-realizo-la-sunafil-entre-el-2023-y-2024](https://www.gob.pe/institucion/sunafil/noticias/964567-mas-de-2-800-inspecciones-de-accidentes-de-trabajo-realizo-la-sunafil-entre-el-2023-y-2024) 
+
+Ewes, L., Llallihuaman, B. y Bojorquez, G. (2023). Seguridad y salud en el trabajo: prevención de accidentes y enfermedades ocupacionales en Perú (2022). Llalliq, 3(1), 199-216. [http://revistas.unasam.edu.pe/index.php/llalliq/article/view/1046](http://revistas.unasam.edu.pe/index.php/llalliq/article/view/1046) 
 
 # Anexos
 
