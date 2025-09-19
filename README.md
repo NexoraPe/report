@@ -1058,6 +1058,44 @@ Implementa SSO, OAuth2 y JWT para validar identidad y permisos de acceso.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
+### Incident
+El diagrama de **Incident** modela cómo se gestiona un incidente dentro del sistema.  
+Incluye los estados principales de un incidente (registrado, en proceso, resuelto, cerrado) y su relación con la clase `Incident`, lo que permite entender el ciclo de vida y las transiciones que puede tener.  
+
+![Incident](https://www.plantuml.com/plantuml/dpng/XLDDZzem4BtpAqQSiksoQg-eGiic4Or4oMeJk5ln52mbDh8dKL7L_zuu7rxSmFQKySoRZtdpyco8QQghSaQ2IeH45eAZ90ClgfOSEOHA4luYM41OCcCW4koeMJMReQmhXy-8KMtWzmpWS_eQx-mtsHtYB4yswppPRQnZdMN9PXT7rdwBitHxwErmcsQjzMUe6JUsP87vvOnznTVlQPvQ8qh3_Ozubrlxa4HnQfCAEvURfCjOWE2mXFq-YRgNnhFIX3hnlFtAIyX82tdiN1nDeSMPX99-mFGBBl_Pk8iL6XaXNrCRZbeh5nLsWVhCfm4xEp3EnpK378mMDFeUMhjHWdVOuiJa4Vj-mPqvN8BZOonramyn9FjyrBhqboPxWQLtaFS6eQgg2TyVrcSrdPJsVLPRhkbTDgTdViEpCeAKllGI0SCQ3CQ-L_nuLFuKahzS4XwuSH-ke5UG_xEz5OQ-ZUxLTC0CTIEAGS33KcCiy9NtsCdk_JcHwtHAnld0Vp3X-X6AFjI-1v170YDYnSd9xqO-DdUrM2hZrfYcNijmHC7ywnmM2vX_UNhwD7TbMsIX90cK2AjxuD0jue0-lIrsTKCJ7y9cBkgvi_7MjM5jet5EY_7-08TuHidhglmB)
+
+---
+
+### Assignment
+El diagrama de **Assignment** describe cómo se asigna un incidente o tarea a un usuario.  
+Incluye la entidad `Assignment` con atributos clave (responsable, fecha de asignación, estado) y muestra la relación con `Incident` y `User`, reflejando la trazabilidad de quién está encargado de resolver un caso.  
+
+![Assignment](https://www.plantuml.com/plantuml/dpng/XLF1Rjim3BtxAuYUKcmvx5eCGLtRA0naQH2dvu6mk42R9HaI5ImOzk-pubIEKWyzMUPxZtpKinyTesMlkembTmIvS_AW5Mc69-Er8065qKo_6PPGTEWSb18F5bMMaVRgIj0midVm9mFujAqsPRrv3iUyAAhjlYh3kTvyt-vUddTLquJNukNRTbq5x6-MjQ7vzVpGQ0bIm0EyljRb-APRAGQmJgfu5X6bLJVwUNXdyLeZSXuO9JBjfQ8pqXhLTyItK31yKUtDmZkoSTpzy3mQASuKXVPNyTPY4Q6uORFEPrV3w39TGtWA7cvTzbOQA_aqr1ksKXzkxv1eTen6HPCcLApffifS4ZlgZPDix6aC5nmUQJ7vJQuukOiVKekdKtq9RV4klK1UIyTV9_rgpa53zYXRkenlBI5JH6VwVewVHFH6T9_u7EFi--uq11ANINgu3eVp02SxZPz7CdzKH-LrvXCBxhxSmNAvEZ_poHw64me32Al_q8E7WUdyJ-AK5wycK6SZ-v2QU4oXvkqFyYuCVIGjlEh-0G00)
+
+---
+
+### Notification
+El diagrama de **Notification** muestra cómo se gestionan las notificaciones generadas por los eventos del sistema.  
+Incluye la clase `Notification` y atributos como tipo, fecha, estado de lectura, así como las transiciones que indican si un usuario ya visualizó la alerta o si permanece pendiente.  
+
+![Notification](https://www.plantuml.com/plantuml/dpng/ZLB13fim3Btp5L5FdJOEkrPJrQwm3Qb5QBGVa16NMY9EHKpLQjg_Zq3HG4GQ9uFzdkqNlvrbMNEZgu2HAn2fORnY8HaDYQ-c8GLA70mnF5c4ub19QqM4igob3WAWHayevzSTnEz0Y8_nQPyStKT-obt8BlcFu8-7ahFanlQaB4wZ9FtUqUBqxEAtjaqSEMRXPa-e7IaKgCH6N2v9rFtLKE0TWJYPf94ALBEi1cjb2Mqgvngfx9BiH6nckhgQxRVTU2JqTI3USrkF9CCPDVWtFzma4LIzQaTIQneBc_R_qFx_CgO2IV_QnLfYDVI19mCfxumtl3t3Sd3MsDi2j4_PJxWRYspgro1EFk1_uXu6LGU-8gaCI26LQrSuekKlO_JM_vuvr0yiOFIUu-hYyHtkbRojihSMIz90l9wvvvF7PqChj-B4fglFAn66MnVdhbg271pca-pW_WCiWW-dN88DTa2gqTLV)
+
+---
+
+### Analytics
+El diagrama de **Analytics** modela la recolección y análisis de datos del sistema.  
+Se centra en la clase `Analytics`, donde se registran métricas, reportes y eventos. Permite visualizar cómo se transforman los datos de incidentes y asignaciones en estadísticas útiles para la toma de decisiones.  
+
+![Analytics](https://www.plantuml.com/plantuml/dpng/RL71Rkem4BpxArOvmKD1xrsVAWGb5wJsKie7BF4gjUJOo5v7HLN_lSOshWJSFEFnp7XtxHaTXr4BLgm9DWRrcLNluTa68qd2rXgcJuOMjXgzXqxXu70Kea_mZKxMCNm9Y0ebuJyS3hikeO4CEMII6uvq5q_lQgHqDHAx61Bf5-NvwJN1bOXt2q0fCvvbLHHbF8-doIeflajuuH-66nmfudqKc24n4-fmeJeRZZhN24Pn5VtQTkW_ZXQTBCuk_R6spLykRQNo9utdpFdPVSSwqOl4AxRkd6mNu76Y_6wM4-BRZAykIJOGL_VR2lSfUtAJwYb7r1NiJAya6Ivngi3TTMJp6fsUzQZxe2yBSsHapRqkAkMMnJV_6cXRQFukbt-QiX1H1tXpNIBkohRjwj6S7WkBoPgC3AF-0G00)
+
+---
+
+### Profile
+El diagrama de **Profile** describe la información del perfil de usuario.  
+Incluye atributos como datos personales, roles, permisos y estado de la cuenta. También muestra cómo se relaciona el perfil con otras entidades del sistema, como notificaciones y asignaciones, asegurando la personalización de la experiencia de cada usuario.  
+
+![Profile](https://www.plantuml.com/plantuml/dpng/VLF1Ri8m3BtdAwAUO0mqhcX22BWWxJ31-82iCSWIJQh4HKCJpud8uFGZbFavsS-xcTULAEckeW2Ea0yjtP7V8xjutHeEN26e8laaEvE2ZlvHBLtgbAY3A6YVuj95DGoudSRbVB63KUt2f3Fj5ok267PX-14XpX3aj5Q8tdt1jwUbtSebF1p85KMcTmBvHoGGRs6JXQrEASvilIdLF6jVEfqFi6zFpKWIuL1N9uFh22gz3Q_kE2KTLT-nfSnSrkD_xDJiNvpjSrrDOZMNUAlGVIgoFqwelfaqHBUqVA3WtFletczx8RzAyLBQKDk2EMS95fQiqRpj4chRyUpzaHat3tYTgr3uyMUx0lUnFCxAXs37CGihUNJjzWCIxaS2YBbz7egSWrMfnnv8HE8ZU0izEs-mz8OWP6y__p0m00)
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
