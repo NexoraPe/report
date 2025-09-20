@@ -1229,7 +1229,7 @@ Paso 9: Se identifico los aggregates
 
 <img width="1744" height="777" alt="Captura de pantalla 2025-09-19 233848" src="https://github.com/user-attachments/assets/d6a7f7c0-1c97-4b20-9e3f-a1256a7293da" />
 
-Paso 9: Separamos por bounded context, en los cuales algunos tienen un cierto tipo de relación medianto comando y domain
+Paso 10: Separamos por bounded context, en los cuales algunos tienen un cierto tipo de relación medianto comando y domain
 
 <img width="1282" height="796" alt="Captura de pantalla 2025-09-19 235313" src="https://github.com/user-attachments/assets/dbbf1b20-404a-4a80-b6c6-51e7b46dc6de" />
 
