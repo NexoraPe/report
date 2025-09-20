@@ -1150,21 +1150,22 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-<img width="578" height="19" alt="Image" src="./imgs/createaccount.png />
+<img width="578" height="200" alt="Create Account" src="./imgs/createaccount.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/resetpassword.png />
+<img width="650" height="200" alt="Reset Password" src="./imgs/resetpassword.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/login.png />
+<img width="650" height="200" alt="Login" src="./imgs/login.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/profile.png />
+<img width="650" height="200" alt="Profile" src="./imgs/profile.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/incidents.png />
+<img width="650" height="200" alt="Incidents" src="./imgs/incidents.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/Assigments.png />
+<img width="650" height="200" alt="Assignments" src="./imgs/Assigments.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/notifications.png />
+<img width="650" height="200" alt="Notifications" src="./imgs/notifications.png" />
 
-<img width="650" height="200" alt="Image" src="./imgs/analytics.png />
+<img width="650" height="200" alt="Analytics" src="./imgs/analytics.png" />
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
