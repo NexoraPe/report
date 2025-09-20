@@ -1537,8 +1537,8 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 | **Sprint 0 Retrospective Summary** | Al ser el sprint 0, aun estabamos en proceso de familiarizarse|
 | **Sprint Goal & User Stories** | |
 | **Sprint 1 Goal** | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor.  Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas.|
-| **Sprint 1 Velocity** | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
-| **Sum of Story Points** | 5 (cambiar) |
+| **Sprint 1 Velocity** | 15  |
+| **Sum of Story Points** | 15 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
@@ -1556,12 +1556,12 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 
 **Alcance:**
 
-* Implementar barra de navegación responsive  
-* Crear componentes de llamada a la acción (CTA)  
+* Implementar barra de navegación responsive
 * Desarrollar sección de beneficios del servicio  
-* Construir tarjetas interactivas de servicios  
+* Desarrollar sección de Testimonios	
+* Implementar componentes de llamada a la acción (CTA)  
 * Implementar funcionalidad de preguntas frecuentes (FAQ)  
-* Colocar los nuevos puntos a la documentación del trabajo
+* Colocar las membresias o planes
 
 **Duración:** 25 de Agosto \- 20 de Septiembre de 2025
 
@@ -1571,13 +1571,12 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 
 | Task ID | User Story | Description | Assigned To | Estimated Hours | Status | Epic |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| T01 | US01 | Navegación Intuitiva en la Landing Page | Vidal Castro, Miguel Angel | 5 | Completed | EP01 |
+| T01 | US01 | Navegación Intuitiva en la Landing Page | Vidal Castro, Miguel Angel | 3 | Completed | EP01 |
 | T02 | US02 | Visualización de Beneficios | Vidal Castro, Miguel Angel | 3 | Completed | EP01 |
-| T03 | US03 | Desarrollar botones CTA principales | Cacho Seminario, Diego Alonso | 4 | Completed | EP01 |
-| T04 | US04 | Programar interactividad de secciones | Cacho Seminario, Diego Alonso | 2 | Completed | EP01 |
-| T05 | US05 | Investigar y compilar preguntas frecuentes | Castro Sanchez, Amir Gabriel | 6 | Completed | EP01 |
-| T06 | US06 | Diseñar componentes de navegación en Figma | Tantaleán Mesta, Guillermo Fabián | 4 | Completed | EP01 |
-| T07 | US07 | Implementar barra de navegación responsive | Tantaleán Mesta, Guillermo Fabián | 5 | Completed | EP01 |
+| T03 | US03 | Acceso a Testimonios	 | Cacho Seminario, Diego Alonso | 3 | Completed | EP01 |
+| T04 | US41 | Botones CTA principales en la Landing Page	 | Cacho Seminario, Diego Alonso | 2 | Completed | EP01 |
+| T05 | US42 | Sección de Preguntas Frecuentes (FAQ)	 | Castro Sanchez, Amir Gabriel | 3 | Completed | EP01 |
+| T06 | US43 | Sección de Membresía y Planes | Tantaleán Mesta, Guillermo Fabián | 4 | Completed | EP01 |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
