@@ -1521,47 +1521,30 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-*  Sprint Details
-
-| Field | Value |
-| :---: | :---: |
-| Sprint Number | Sprint 1 |
-| Date | 13 de Septiembre de 2025 |
-| Time | 17:20 PM |
-| Location | Modalidad remota |
-| Prepared By | SafeWork |
-| Attendees | Todos los miembros del equipo |
-
-* Sprint Overview
-
-**Previous Sprint Summary:**  
-Para el Sprint 0, el equipo organizó reuniones para coordinar el tema a elegir y recolectar la información necesaria para la documentación del trabajo del curso.
-
-**Sprint Goal:**  
-Para el Sprint 1, buscamos desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario especificadas para la interacción inicial con clientes y presentación del producto.
-
-**Technical Specifications:**
-
-| Aspect | Details |
-| :---- | ----- |
-| Duration | 25 de Agosto \- 20 de Septiembre de 2025 |
-| Team Capacity | 120 horas totales |
-| Tech Stack | Google Docs, GitHub, HTML, CSS, JS |
-| Velocity | \# |
-| Total Story Points | \# |
+| Sprint # | Sprint 1 |
+|---------|---------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-09-12 |
+| **Time** | 09:40 AM |
+| **Location** | Aula H-51, después de las clases (previamente acabadas) |
+| **Prepared By** | Diego Alonso Cacho Seminario |
+| **Attendees (to planning meeting)** | Amir Gabriel Castro Sánchez / Guillermo Fabián Tantaleán Mesta / Miguel Angel Vidal Castro / Diego Alonso Cacho Seminario |
+| **Sprint 0 Review Summary** | Para el Sprint 0, el equipo organizó reuniones para coordinar el tema a elegir y recolectar la información necesaria para la documentación del trabajo del curso. |
+| **Sprint 0 Retrospective Summary** | Al ser el sprint 0, aun estabamos en proceso de familiarizarse|
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor.  Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas.|
+| **Sprint 1 Velocity** | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
+| **Sum of Story Points** | 5 (cambiar) |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-##### 
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (L/C) | Landing Page Development (L/C) | Quality Control (L/C) | Documentation (L/C) |
+|-------------------------------------|-----------------|---------------------|---------------------|---|---------------------|
+| Castro Sánchez, Amir Gabriel       | AmirbarrabajaLeon   | C                   | C                   | C | L                   |
+| Vidal Castro, Miguel Angel        | Gossk              | L                   | L                   | C | C                   |
+| Tantaleán Mesta, Guillermo Fabián   | guillermotantalean1   | C                   | C                   | L | C                   |
+| Diego Alonso, Cacho Seminario        | Memesitos          | C                   | C                   | L | L                   |
 
-| Role | Leader | Collaborators |
-| ----- | ----- | ----- |
-| UI/UX Design | Amir Gabriel Castro Sánchez | Guillermo Fabián Tantaleán Mesta |
-| Landing Page Development | Miguel Angel Vidal Castro | Diego Alonso Cacho Seminario |
-| Quality Control | Guillermo Fabián Tantaleán Mesta | Amir Gabriel Castro Sánchez |
-| Documentation | Diego Alonso Cacho Seminario | Miguel Angel Vidal Castro |
-
-##### 
 
 #### 5.2.1.3. Sprint Backlog 1.
 
