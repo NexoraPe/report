@@ -875,6 +875,9 @@ Las Epic definidas para SafeWork están orientadas a cubrir las necesidades prin
 | US38 | Notificación de Nueva Tarea | Como responsable de un reporte, deseo recibir notificación cuando me asignan un caso. | **Escenario 1:** Given que el personal SST asigna un caso, When me designa responsable, Then debería llegarme una notificación en tiempo real. | EP09 |
 | US39 | Filtro por estado de casos | Como personal de SST, deseo filtrar los casos por estado (abierto, en proceso, cerrado) para gestionar mejor la carga de trabajo. | **Escenario 01:** Given que estoy en la lista de casos, When aplico el filtro “Abiertos”, Then solo deberían mostrarse esos casos. **Escenario 02:** Given que aplico múltiples filtros, When confirmo, Then debería actualizarse la vista con los resultados correspondientes. | EP05 |
 | US40 | Registro de Auditoría | Como administrador, deseo tener un historial de todas las acciones en la plataforma para auditorías. | **Escenario 1:** Given que un usuario realiza una acción, When se ejecuta, Then debería registrarse en un log de auditoría. | EP13 |
+| US41 | Botones CTA principales en la Landing Page | Como visitante de la landing page, deseo ver botones de llamada a la acción (CTA) claramente visibles y funcionales para poder interactuar fácilmente con las opciones clave del producto. | - **Escenario 01:** Given que estoy en la landing page, When visualizo los botones CTA, Then deberían estar etiquetados con acciones claras como “Probar Gratis”, “Ver Planes” o “Contáctanos”.<br>- **Escenario 02:** Given que hago clic en un botón CTA, When la acción se ejecuta correctamente, Then debería redirigirme a la sección correspondiente o iniciar el flujo esperado.<br>- **Escenario 03:** Given que navego desde un dispositivo móvil, When visualizo los botones CTA, Then deberían estar adaptados al tamaño de pantalla y ser fácilmente accesibles. | EP01 |
+| US42 | Sección de Preguntas Frecuentes (FAQ) | Como visitante de la landing page, deseo acceder a una sección de preguntas frecuentes bien estructurada para resolver dudas comunes sin necesidad de contactar soporte. | - **Escenario 01:** Given que estoy en la landing page, When accedo a la sección FAQ, Then debería ver una lista de preguntas organizadas por temas relevantes.<br>- **Escenario 02:** Given que hago clic en una pregunta, When se despliega la respuesta, Then debería poder leerla sin salir de la página.<br>- **Escenario 03:** Given que tengo una duda no resuelta, When reviso la sección FAQ, Then debería encontrar un enlace para contactar soporte o enviar una consulta. | EP01 |
+| US43 | Sección de Membresía y Planes | Como visitante interesado en el producto, deseo ver una sección que detalle los planes de membresía y sus características para poder comparar opciones y tomar una decisión informada. | - **Escenario 01:** Given que estoy en la landing page, When accedo a la sección de planes, Then debería ver una tabla o tarjetas con los distintos niveles de membresía y sus beneficios.<br>- **Escenario 02:** Given que comparo los planes, When reviso las características, Then debería poder identificar fácilmente cuál se ajusta a mis necesidades.<br>- **Escenario 03:** Given que estoy listo para elegir un plan, When hago clic en “Seleccionar” o “Ver más”, Then debería iniciar el proceso de registro o compra. | EP01 |
 
 ## 3.2. Impact Mapping.
 Se realizaron los siguientes cuadros en la herramienta Canva Whiteboard, el link original puede ser observado aquí: 
@@ -930,6 +933,9 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 | 38 | US38 | Notificación de Nueva Tarea | Como responsable de un reporte, deseo recibir notificación cuando me asignan un caso. | 5 |
 | 39 | US39 | Filtro por estado de casos | Como personal de SST, deseo filtrar los casos por estado (abierto, en proceso, cerrado) para gestionar mejor la carga de trabajo. | 3 |
 | 40 | US40 | Registro de Auditoría | Como administrador, deseo tener un historial de todas las acciones en la plataforma para auditorías. | 5 |
+| 41 | US41 | Botones CTA principales en la Landing Page | Como visitante de la landing page, deseo ver botones de llamada a la acción (CTA) claramente visibles y funcionales para poder interactuar fácilmente con las opciones clave del producto. | 2 |
+| 42 | US42 | Sección de Preguntas Frecuentes (FAQ) | Como visitante de la landing page, deseo acceder a una sección de preguntas frecuentes bien estructurada para resolver dudas comunes sin necesidad de contactar soporte. | 3 |
+| 43 | US43 | Sección de Membresía y Planes | Como visitante interesado en el producto, deseo ver una sección que detalle los planes de membresía y sus características para poder comparar opciones y tomar una decisión informada. |  5 |
 
 ---
 
@@ -1531,8 +1537,8 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 | **Sprint 0 Retrospective Summary** | Al ser el sprint 0, aun estabamos en proceso de familiarizarse|
 | **Sprint Goal & User Stories** | |
 | **Sprint 1 Goal** | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor.  Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas.|
-| **Sprint 1 Velocity** | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
-| **Sum of Story Points** | 5 (cambiar) |
+| **Sprint 1 Velocity** | 15  |
+| **Sum of Story Points** | 15 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
@@ -1550,12 +1556,12 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 
 **Alcance:**
 
-* Implementar barra de navegación responsive  
-* Crear componentes de llamada a la acción (CTA)  
+* Implementar barra de navegación responsive
 * Desarrollar sección de beneficios del servicio  
-* Construir tarjetas interactivas de servicios  
+* Desarrollar sección de Testimonios	
+* Implementar componentes de llamada a la acción (CTA)  
 * Implementar funcionalidad de preguntas frecuentes (FAQ)  
-* Colocar los nuevos puntos a la documentación del trabajo
+* Colocar las membresias o planes
 
 **Duración:** 25 de Agosto \- 20 de Septiembre de 2025
 
@@ -1565,13 +1571,12 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 
 | Task ID | User Story | Description | Assigned To | Estimated Hours | Status | Epic |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| T01 | US01 | Navegación Intuitiva en la Landing Page | Vidal Castro, Miguel Angel | 5 | Completed | EP01 |
+| T01 | US01 | Navegación Intuitiva en la Landing Page | Vidal Castro, Miguel Angel | 3 | Completed | EP01 |
 | T02 | US02 | Visualización de Beneficios | Vidal Castro, Miguel Angel | 3 | Completed | EP01 |
-| T03 | US03 | Desarrollar botones CTA principales | Cacho Seminario, Diego Alonso | 4 | Completed | EP01 |
-| T04 | US04 | Programar interactividad de secciones | Cacho Seminario, Diego Alonso | 2 | Completed | EP01 |
-| T05 | US05 | Investigar y compilar preguntas frecuentes | Castro Sanchez, Amir Gabriel | 6 | Completed | EP01 |
-| T06 | US06 | Diseñar componentes de navegación en Figma | Tantaleán Mesta, Guillermo Fabián | 4 | Completed | EP01 |
-| T07 | US07 | Implementar barra de navegación responsive | Tantaleán Mesta, Guillermo Fabián | 5 | Completed | EP01 |
+| T03 | US03 | Acceso a Testimonios	 | Cacho Seminario, Diego Alonso | 3 | Completed | EP01 |
+| T04 | US41 | Botones CTA principales en la Landing Page	 | Cacho Seminario, Diego Alonso | 2 | Completed | EP01 |
+| T05 | US42 | Sección de Preguntas Frecuentes (FAQ)	 | Castro Sanchez, Amir Gabriel | 3 | Completed | EP01 |
+| T06 | US43 | Sección de Membresía y Planes | Tantaleán Mesta, Guillermo Fabián | 4 | Completed | EP01 |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
