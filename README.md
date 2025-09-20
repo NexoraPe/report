@@ -1163,6 +1163,84 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 
+Proceso del Design-Level EventStorming:
+
+Paso 1: Partimos del Big Picture Event Storming, como base
+
+<img width="888" height="969" alt="Captura de pantalla 2025-09-19 193005" src="https://github.com/user-attachments/assets/3a9c223e-5a86-42f6-a656-62edb6014dc7" />
+
+Paso 2: Ordenamos de manera cronologíca los eventos de dominio, tuvimos en cuenta el 'happy path'.
+
+<img width="1665" height="837" alt="Captura de pantalla 2025-09-19 194846" src="https://github.com/user-attachments/assets/653c0ba7-fb66-417c-900d-828fd06457d0" />
+
+Paso 3: Se colocó dudas/posibles problemas a futuro sobre el dominio en algunas partes del flujo
+
+<img width="1762" height="951" alt="Captura de pantalla 2025-09-19 195737" src="https://github.com/user-attachments/assets/17b13a87-9c28-4e49-b2af-dcebd18f893a" />
+
+Paso 4: Se buscó eventos importantes que indiquen un cambio en el contexto.
+
+<img width="1101" height="842" alt="Captura de pantalla 2025-09-19 201748" src="https://github.com/user-attachments/assets/592d82bb-1505-46f3-9f72-29ea3ef67594" />
+
+Paso 5: Se añadió comandos que desencadenen eventos y tambien agregamos sus actores
+
+<img width="1546" height="695" alt="Captura de pantalla 2025-09-19 212519" src="https://github.com/user-attachments/assets/457d1e48-9f20-4402-a752-55db5aad9510" />
+
+<img width="1288" height="884" alt="Captura de pantalla 2025-09-19 212552" src="https://github.com/user-attachments/assets/6fc64959-d118-4174-a0e9-971bab965e04" />
+
+<img width="564" height="204" alt="Captura de pantalla 2025-09-19 221438" src="https://github.com/user-attachments/assets/36f32016-3b6b-46d0-877d-9ad9bfbce242" />
+
+Paso 6: Se equipo añadió 'policies' o reglas de negocio que hacen que se ejecuten eventos de dominio
+
+<img width="886" height="907" alt="Captura de pantalla 2025-09-19 223550" src="https://github.com/user-attachments/assets/101ae7b9-5c4b-41c1-9ead-c6b1953c79de" />
+
+<img width="1667" height="665" alt="Captura de pantalla 2025-09-19 223615" src="https://github.com/user-attachments/assets/975057e6-eb8a-4218-a3b6-2939677a66aa" />
+
+<img width="1147" height="726" alt="Captura de pantalla 2025-09-19 223624" src="https://github.com/user-attachments/assets/b7d32622-f539-4e41-a1e6-841c0bed1a7e" />
+
+<img width="1645" height="703" alt="Captura de pantalla 2025-09-19 223654" src="https://github.com/user-attachments/assets/9fad0aad-fbfb-44f0-ab66-4b0738493420" />
+
+Paso 7: Se añadió read models, son la vista de datos o 'views' que ayudarán al usuario con la ejecución de comandos
+<img width="1238" height="869" alt="Captura de pantalla 2025-09-19 230749" src="https://github.com/user-attachments/assets/c4346d99-f430-426b-b6ba-c910b5e13c23" />
+
+<img width="1260" height="598" alt="Captura de pantalla 2025-09-19 230805" src="https://github.com/user-attachments/assets/e7ac4a05-a46c-4e10-b1cd-546c29a5e473" />
+<img width="1584" height="646" alt="Captura de pantalla 2025-09-19 230929" src="https://github.com/user-attachments/assets/c6d61487-5e4e-45c4-8320-bdff22619956" />
+
+<img width="1248" height="698" alt="Captura de pantalla 2025-09-19 231216" src="https://github.com/user-attachments/assets/533aeba4-d436-4766-99bb-783a1458671f" />
+
+
+<img width="1765" height="335" alt="Captura de pantalla 2025-09-19 231454" src="https://github.com/user-attachments/assets/773e4adf-7ec9-431a-870d-afad72233b93" />
+
+<img width="1704" height="612" alt="Captura de pantalla 2025-09-19 231604" src="https://github.com/user-attachments/assets/ad6f7ffe-5bb5-466f-88ce-6d5ed74175f2" />
+
+Paso 8: Se identifico sistemas externos, tales como el servicio de guardado de imagenes en la nube, por ahora va como "Cloud Storage"
+
+<img width="1720" height="867" alt="Captura de pantalla 2025-09-19 232402" src="https://github.com/user-attachments/assets/6000d670-f2f7-408e-9bc4-43128d9d393f" />
+
+<img width="1686" height="344" alt="Captura de pantalla 2025-09-19 232414" src="https://github.com/user-attachments/assets/2e4369dd-cf11-4fdb-939e-6160f4e18754" />
+
+<img width="1660" height="646" alt="Captura de pantalla 2025-09-19 233559" src="https://github.com/user-attachments/assets/39acdbd3-b116-4a1e-a71a-66e21fd075e8" />
+
+
+Paso 9: Se identifico los aggregates
+
+<img width="1135" height="849" alt="Captura de pantalla 2025-09-19 233815" src="https://github.com/user-attachments/assets/82d0bb24-af97-4b17-9db5-df1b115accc0" />
+
+<img width="1097" height="895" alt="Captura de pantalla 2025-09-19 233836" src="https://github.com/user-attachments/assets/ad91e710-c9fd-47a7-979f-713a2ef3527b" />
+
+<img width="1744" height="777" alt="Captura de pantalla 2025-09-19 233848" src="https://github.com/user-attachments/assets/d6a7f7c0-1c97-4b20-9e3f-a1256a7293da" />
+
+Paso 9: Separamos por bounded context, en los cuales algunos tienen un cierto tipo de relación medianto comando y domain
+
+<img width="1282" height="796" alt="Captura de pantalla 2025-09-19 235313" src="https://github.com/user-attachments/assets/dbbf1b20-404a-4a80-b6c6-51e7b46dc6de" />
+
+<img width="1233" height="854" alt="Captura de pantalla 2025-09-19 235338" src="https://github.com/user-attachments/assets/0ac45724-d0d6-45cf-9ef9-bdc3c4e24dc1" />
+
+<img width="1095" height="880" alt="Captura de pantalla 2025-09-19 235354" src="https://github.com/user-attachments/assets/0e669fd7-4592-4dc7-9df0-f34998417fb4" />
+<img width="1547" height="894" alt="Captura de pantalla 2025-09-19 235408" src="https://github.com/user-attachments/assets/3dc9efc2-bfd0-4b09-af46-15462c8b84db" />
+
+<img width="1333" height="813" alt="Captura de pantalla 2025-09-19 235416" src="https://github.com/user-attachments/assets/fe95ed97-42b8-42af-a1d0-04e3bc09e9d0" />
+
+
 ### 4.6.2. Software Architecture Context Diagram.
 
 El diagrama de contexto muestra a los dos actores principales —**Encargado** y **Trabajador**— interactuando con la plataforma **SafeWork**, así como la relación con los contenedores principales.  
