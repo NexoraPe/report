@@ -1607,8 +1607,21 @@ Más de 2,800 inspecciones de accidentes de trabajo realizó la Sunafil entre el
 
 Ewes, L., Llallihuaman, B. y Bojorquez, G. (2023). Seguridad y salud en el trabajo: prevención de accidentes y enfermedades ocupacionales en Perú (2022). Llalliq, 3(1), 199-216. [http://revistas.unasam.edu.pe/index.php/llalliq/article/view/1046](http://revistas.unasam.edu.pe/index.php/llalliq/article/view/1046) 
 
+ISO 45001:2018(es) Sistemas de gestión de la seguridad y salud en el trabajo — Requisitos con orientación para su uso. (2018). Online Browsing Platform. [https://www.iso.org/obp/ui/#iso:std:iso:45001:ed-1:v1:es](https://www.iso.org/obp/ui/#iso:std:iso:45001:ed-1:v1:es)
+
+Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar de trabajo. (2024, 30 enero). International Labour Organization. [https://www.ilo.org/es/resource/metas-de-los-ods-pertinentes-vinculados-con-la-seguridad-y-la-salud-en-el](https://www.ilo.org/es/resource/metas-de-los-ods-pertinentes-vinculados-con-la-seguridad-y-la-salud-en-el)
+
 # Anexos
+- Enlace para acceder al [video de exposición de TB1] (https://link.com)
 
+- Enlace para acceder al [Figma](https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&p=f&t=DSclDKaWIfieBQf6-0)
 
+- Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
+
+- Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
+
+- Enlace para acceder al [repositorio de reporte](https://github.com/NexoraPe/report)
+
+- Enlace para acceder al [repositorio de landing page](https://github.com/NexoraPe/Landing-Page)
 
 
