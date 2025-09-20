@@ -1153,21 +1153,38 @@ Enlace al Landing Page: https://nexorape.github.io/Landing-Page/
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
+**Create Account**  
+Pantalla para que los usuarios creen una nueva cuenta ingresando sus datos básicos.  
 <img alt="Create Account" src="./imgs/createaccount.png" />
 
+**Reset Password**  
+Interfaz que permite recuperar el acceso en caso de olvidar la contraseña.  
 <img alt="Reset Password" src="./imgs/resetpassword.png" />
 
+**Login**  
+Formulario de inicio de sesión para acceder a la aplicación.  
 <img alt="Login" src="./imgs/login.png" />
 
+**Profile**  
+Sección del perfil de usuario con información personal, roles y certificaciones.  
 <img alt="Profile" src="./imgs/profile.png" />
 
+**Incidents**  
+Pantalla de gestión de incidentes, donde se listan, detallan y crean reportes.  
 <img alt="Incidents" src="./imgs/incidents.png" />
 
+**Assignments**  
+Vista de asignaciones que muestra el estado, detalles y SLA de las tareas asignadas.  
 <img alt="Assignments" src="./imgs/Assigments.png" />
 
+**Notifications**  
+Módulo para ver notificaciones recibidas, pendientes o enviadas.  
 <img alt="Notifications" src="./imgs/notifications.png" />
 
+**Analytics**  
+Panel de análisis con métricas, reportes y tendencias de incidentes.  
 <img alt="Analytics" src="./imgs/analytics.png" />
+
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
