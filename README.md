@@ -80,14 +80,8 @@
 # Project Report Collaboration Insights
 **URL del repositorio para el Project Report:** [https://github.com/boafe/report](https://github.com/boafe/report)
 
-Temporal => *En esta sección el equipo indica el URL del repositorio para el Project Report en la
-organización de GitHub del equipo. Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe.*
+<img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/e2d3423e-5c75-4b98-acaa-dd80a9e20d86" />
+
 
 ---
 
@@ -1588,7 +1582,7 @@ En el primer Sprint solamente se ha desarrollado la Landing Page por lo que no s
 Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexorape.github.io/Landing-Page/) 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![imgs](imgs/InsightsDoc.png)
+<img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/b3d3a865-39ff-41c8-8352-a26f2960a093" />
 
 ---
 
