@@ -714,10 +714,98 @@ Se realizaron los siguientes cuadros en la herramienta Canva Whiteboard, el link
 ![imgs](imgs/ToBeSeg2.png)
 
 ## 2.4. Big Picture Event Storming.
-[Contenido]
+Big Picture Event Storming es una técnica colaborativa que nos permitirá comprender el funcionamiento global de SAFEWORK. Se basará en visualizar eventos clave del dominio(domain events), fomentar el diálogo entre roles (actores) diversos y detectar oportunidades de mejora. El proceso se divide en tres fases principales:
+
+**Primera Etapa: OPEN**
+
+Aquí colocamos todos los eventos de dominios que se nos pueda ocurrir.
+<img width="773" height="857" alt="Captura de pantalla 2025-09-19 155653" src="https://github.com/user-attachments/assets/084b4508-93cc-45b9-ab02-16d2f45bb020" />
+
+**Segunda Etapa: EXPLORE**
+
+Identificamos actores y pain points que luego cuestionamos, y lo más importante crear una secuencia entre los eventos de dominio.
+<img width="1192" height="1005" alt="Captura de pantalla 2025-09-19 164843" src="https://github.com/user-attachments/assets/02dba83a-82cd-4290-bb8b-406682241466" />
+
+**Tercera Etapa: CLOSE**
+
+Identificamos problemas que hayamos encontrado, temas a investigar más a fondo y declaramos que esta fuera de nuestro alcance actual.
+
+<img width="1409" height="851" alt="Captura de pantalla 2025-09-19 170329" src="https://github.com/user-attachments/assets/6acf4a0b-d506-47bb-82cf-7f8bae578acb" />
 
 ## 2.5. Ubiquitous Language.
-[Contenido]
+
+**Términos Clave:**
+*- Incident (Incidente):*
+Evento no deseado que ocurre en el lugar de trabajo y que no causa daño grave, pero que puede indicar una condición insegura.
+
+*- Accident (Accidente):*
+Suceso inesperado en el trabajo que causa daño físico a un trabajador o afecta la seguridad.
+
+*- Report (Reporte):*
+Registro formal de un accidente o incidente, que incluye datos relevantes como descripción, lugar, fecha, fotos o documentos.
+
+*- Case (Caso):*
+Conjunto de reportes y acciones relacionadas a un accidente o incidente específico que está siendo gestionado.
+
+*- Case Status (Estado del caso):*
+Fase en la que se encuentra un reporte: pendiente, en revisión, en proceso de acción correctiva o cerrado.
+
+
+**Roles y Actores**
+
+*- Worker (Trabajador):*
+Persona que realiza labores en la empresa y que puede reportar incidentes o accidentes.
+
+*- Affected Worker (Trabajador afectado):*
+Colaborador que ha sufrido un accidente o incidente y requiere seguimiento de su caso.
+
+*- Occupational Health and Safety Staff (Personal SST):*
+Especialistas responsables de recibir, gestionar y dar seguimiento a los reportes de accidentes e incidentes laborales.
+
+*-Responsible (Responsable):*
+Persona designada para atender y resolver un caso específico.
+
+*- Administrator (Administrador):*
+Usuario con permisos para gestionar configuraciones, seguridad de datos y auditorías dentro de la plataforma.
+
+
+**Acciones y Procesos**
+
+*- Report Submission (Registro de reporte):*
+Acción realizada por un trabajador para informar sobre un accidente o incidente.
+
+*- Case Management (Gestión de casos):*
+Proceso que incluye la recepción, revisión, asignación de responsables, actualización de estado y cierre de un caso.
+
+*- Follow-up (Seguimiento):*
+Actividad de monitoreo continuo sobre el progreso de un caso hasta su resolución.
+
+*- Evidence (Evidencia):*
+Documentos, fotos o archivos que respaldan la veracidad de un reporte.
+
+*- Audit (Auditoría):*
+Revisión oficial de registros y casos para comprobar cumplimiento de normativas de seguridad.
+
+*- Notification (Notificación):*
+Aviso enviado en tiempo real al usuario sobre cambios en el estado de un reporte o asignación de responsabilidades.
+
+*- Timeline (Línea de tiempo):*
+Representación cronológica de las etapas de un caso desde su registro hasta su cierre.
+
+ 
+**Contexto Organizacional:**
+
+*- Occupational Safety (Seguridad Ocupacional):*
+Conjunto de medidas y procedimientos destinados a proteger la integridad física y psicológica de los trabajadores.
+
+*- Corrective Action (Acción Correctiva):*
+Medida implementada para solucionar un problema detectado en un reporte.
+
+*- Preventive Action (Acción Preventiva):*
+Medida destinada a evitar que un accidente o incidente vuelva a ocurrir.
+
+*- Transparency (Transparencia):*
+Cualidad del sistema que permite a los trabajadores conocer en todo momento el estado de sus reportes.
 
 ---
 
