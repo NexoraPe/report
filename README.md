@@ -1607,13 +1607,6 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ![imgs](imgs/InsightsDoc.png)
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-
-## 5.4. Video About-the-Product.
-
 ---
 
 # Conclusiones
@@ -1624,25 +1617,6 @@ La propuesta de **SafeWork** surge como una respuesta directa a las necesidades 
 
 En conjunto, lo avanzado hasta la entrega TB1 permite concluir que **SafeWork** representa una solución innovadora y viable para digitalizar, simplificar y dar transparencia al proceso de gestión de incidentes laborales, aportando valor tanto a los trabajadores que buscan seguridad y claridad como al personal de SST que requiere herramientas efectivas para gestionar casos y tomar decisiones preventivas. 
 
-- TP1: 
-
-……
-
-……
-
-- TB2: 
-
-……
-
-……
-
-- TF: 
-
-……
-
-……
-
-## Video About-the-Team.
 
 ---
 
