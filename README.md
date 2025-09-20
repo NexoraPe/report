@@ -73,7 +73,7 @@
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |     ---     |     ---   |     ---   |             ---                 |
 | 1.0 | 26/08/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
-| 1.1 | 18/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
+| 1.1 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
 
 ---
 
@@ -218,7 +218,9 @@ del ABET – EAC - Student Outcome 3.
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-SafeWork es una aplicación web diseñada para mejorar la gestión de la seguridad laboral en fábricas, almacenes y construcciones. Permite que los trabajadores reporten incidentes en tiempo real, evitando retrasos o la pérdida de información en papeleo. La plataforma asigna responsables de seguimiento, envía notificaciones inmediatas y facilita el monitoreo de cada caso hasta su resolución. Con esto, se garantiza mayor transparencia, rapidez y trazabilidad en los procesos de seguridad. SafeWork contribuye a reducir riesgos, fomentar una cultura de prevención y brindar a las empresas una base de datos útil para analizar y prevenir futuros incidentes.
+Somos NexoraPE, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas comprometidos con el desarrollo de soluciones tecnológicas que mejoren la seguridad laboral en el Perú.
+Nuestra misión es ofrecer una plataforma digital que facilite el reporte y seguimiento de incidentes laborales en tiempo real, permitiendo a trabajadores y responsables de seguridad actuar de manera rápida y eficiente para prevenir accidentes y garantizar entornos de trabajo más seguros.
+Nuestra visión es convertirnos en la herramienta líder en gestión de seguridad laboral en Latinoamérica, ayudando a las empresas a reducir riesgos, cumplir con normativas y proteger la integridad de sus trabajadores mediante el uso de tecnología accesible, intuitiva y confiable.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto | Nombre y Apellidos | Código de Estudiante | Carrera | Resumen de Conocimientos y Habilidades |
@@ -229,6 +231,7 @@ SafeWork es una aplicación web diseñada para mejorar la gestión de la segurid
 | ![Foto 4](https://github.com/user-attachments/assets/bdd14d4d-1888-4244-8a1b-842034bfa6eb) | **Miguel Angel Vidal Castro** | u202314186 | Ingeniería de Software | Conocimientos en gestión de proyectos y optimización de procesos. Aporta al equipo su enfoque en eficiencia, coordinación y manejo de recursos. |
 
 ## 1.2. Solution Profile
+SafeWork es una aplicación web diseñada para mejorar la gestión de la seguridad laboral en fábricas, almacenes y construcciones. Permite que los trabajadores reporten incidentes en tiempo real, evitando retrasos o la pérdida de información en papeleo. La plataforma asigna responsables de seguimiento, envía notificaciones inmediatas y facilita el monitoreo de cada caso hasta su resolución. Con esto, se garantiza mayor transparencia, rapidez y trazabilidad en los procesos de seguridad. SafeWork contribuye a reducir riesgos, fomentar una cultura de prevención y brindar a las empresas una base de datos útil para analizar y prevenir futuros incidentes.
 ### 1.2.1 Antecedentes y problemática
 ##### **¿Cuál es el problema? (What)**
 
