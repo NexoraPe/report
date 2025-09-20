@@ -1109,6 +1109,9 @@ El pie de página complementa la navegación con enlaces a información adiciona
 La arquitectura modular permite agregar, modificar o eliminar secciones sin afectar el resto de la página, facilitando la escalabilidad y mantenimiento del sitio.
 
 ## 4.3. Landing Page UI Design.
+
+Enlace al Landing Page: https://nexorape.github.io/Landing-Page/ 
+
 ### 4.3.1. Landing Page Wireframe.
 
 <img width="658" height="345" alt="Image" src="https://github.com/user-attachments/assets/09868085-60ed-4896-b8ce-247c0d168524" />
@@ -1169,6 +1172,8 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+
+
 ### 4.4.3. Web Applications Mock-ups.
 
 <img width="622" height="548" alt="Image" src="https://github.com/user-attachments/assets/ccde196c-b4a1-4153-943f-ef677e4d6ea9" />
@@ -1192,6 +1197,9 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 
 ## 4.5. Web Applications Prototyping.
 
+<img width="546" height="481" alt="Image" src="https://github.com/user-attachments/assets/680b1fee-73bc-4b87-99e6-594501bc20f3" />
+
+Enlace al figma: https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&t=vINDSY2w8lBsUY2f-1 
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
