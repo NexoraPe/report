@@ -923,7 +923,7 @@ Descripción: La meta descripción proporciona un resumen breve del contenido de
 
 Palabras clave: Ayuda a relacionar el sitio en términos de búsqueda relevantes, aunque actualmente tiene poco peso en algoritmos de búsqueda.
 
-
+<img width="578" height="19" alt="Image" src="./imgs/keywords.png" />
 
 Derechos de autor: Indica el autor del contenido o la organización responsable del sitio web.
 Responsividad: Garantiza que el sitio se vea correctamente en dispositivo móviles, tabletas y pantallas de diferentes tamaños.
