@@ -72,8 +72,8 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |     ---     |     ---   |     ---   |             ---                 |
-| 1.0 | 26/08/2025 | Anónimo | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
-| 1.1 | 18/09/2025 | Anónimo | Se implementaron diversos puntos del trabajo|
+| 1.0 | 26/08/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
+| 1.1 | 18/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
 
 ---
 
