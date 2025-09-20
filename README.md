@@ -439,40 +439,46 @@ Entrevistado N°1: Miguel Angel Saucedo Zambrano
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:  
+* Instante en el que inicia: 0:00
 * Duración: 3:24
 
 Resumen:
 
-….
+Para Miguel, debido a que en su puesto de trabajo se realizan estos informes de manera manual en papel, tienen problemas debido a que en ocasiones estos formularios llegan incompletos, con el papel dañado o sin ciertos datos que no permiten realizar un correcto seguimiento, además a tenido varios casos en los que se pierden los informes lo que lleva a faltas de coordinación e incluso a más riesgos en un futuro ya que los problemas no son solucionados como deberían.
 
-Entrevistado N°2:
+![imgs](imgs/EntrevistaSeg1Miguel.png)
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+Entrevistado N°2: Nicole Requena Saiwa
+
+* Sexo: Femenino   
+* Edad: 27 años  
+* Ubicación en la que vive: Ciudad de Arequipa
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:  
-* Duración:
+* Instante en el que inicia: 3:33
+* Duración: 2:53
 
 Resumen:
 
-….
+En el puesto de trabajo de Nicole, utilizan métodos tradicionales para completar los formularios de incidentes como a mano en una hoja de papel o en ocasiones dentro de hojas de excel. Considera que es difícil consolidar todos los datos para el informe ya que muchas veces estos informes llegan incompletos o son perdidos antes de ser terminados. Finalmente cree que una aplicación similar a SafeWork podría ayudarle mucho en su posición. 
 
-Entrevistado N°3:
+![imgs](imgs/EntrevistaSeg1Nicole.png)
 
-* Sexo:   
-* Edad:  
-* Ubicación en la que vive:
+Entrevistado N°3: Luis Alberto Paredes
+
+* Sexo: Masculino  
+* Edad: 24  
+* Ubicación en la que vive: San Martín de Porres
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:  
-* Duración:
+* Instante en el que inicia: 6:29 
+* Duración: 4:55
 
-….
+Luis Alberto es un asistente de seguridad en una empresa de construcción y comenta que recibe reportes de accidentes laborales casi semanalmente, la mayoría de estos siendo casos pequeños. En su empresa, utilizan excel o medios comunicativos como WhatsApp para reportar estos incidentes. Considera que tienen problemas ya que los reportes no siempre llegan completos lo que lleva a un difícil seguimiento. Cree que una aplicación como SafeWork si le ayudaria bastante en su área de trabajo.
+
+![imgs](imgs/EntrevistaSeg1Luis.png)
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
 
@@ -484,7 +490,7 @@ Entrevistada N°1: Mario André Cacho Seminario
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:   
+* Instante en el que inicia: 11:29
 * Duración: 3:20
 
 Resumen:  
@@ -500,7 +506,7 @@ Entrevistado N°2: Sebastián De Las Casas Latour
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:   
+* Instante en el que inicia: 14:52  
 * Duración: 5:26
 
 Resumen:
@@ -508,6 +514,25 @@ Resumen:
 Para Sebastián una plataforma que le permita organizar y mantener un seguimiento de los incidentes o accidentes podría ser de gran ayuda en caso pase por un problema similar en un futuro. Si bien considera que no tuvo problemas al reportar los incidentes ya que la empresa lo manejo de una manera correcta, indica que si hubiera tenido una herramienta similar a SafeWork, el proceso hubiera sido más rápido, no se habría encontrado confundido de qué hacer cuando sufrió el accidente y podría tener un registro de lo que ocurre en caso se tenga que realizar algún seguimiento.
 
 ![imgs](imgs/EntrevistaSeg2Sebastian.png)
+
+Entrevistado N°3: Diego Alarcon Rivas
+
+* Sexo: Masculino  
+* Edad: 22  
+* Ubicación en la que vive: San Juan de Lurigancho
+
+Acerca de la entrevista:
+
+* Instante en el que inicia: 20:22
+* Duración: 5:10
+
+Resumen:
+
+Diego trabaja actualmente en el área de almacenamiento, es un ayudante de logística y si ha tenido accidentes anteriormente en este puesto. En su trabajo anotan los incidentes/accidentes que ocurren en los cuadernos para llevar un seguimiento simple de los problemas que ocurren. Debido a que no había un formato claro para el reporte, se le complicó llenar con la información que consideraba importante. Considera que SafeWork podría ayudar bastante en su puesto de trabajo para llevar una lista de los incidentes y poder seguirlos correctamente.
+
+![imgs](imgs/EntrevistaSeg2Diego.png)
+
+El video completo de las entrevistas puede ser visualizado en el siguiente link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EXompS5DmExMneyAoAHRKAgBHiOofaiA4tbpoGPA-7fmFQ?e=NXfew1
 
 ### 2.2.3. Análisis de entrevistas.
 De acuerdo con la información recopilada de las entrevistas, realizamos el siguiente análisis de entrevistas:
@@ -536,13 +561,35 @@ Se presentan en esta sección los resultados del análisis de la información re
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
 
 * Motivaciones Principales:  
-- ….
+- Garantizar un registro completo y confiable de los incidentes laborales.
+
+- Reducir la carga administrativa que generan los reportes manuales.
+  
+- Mejorar el seguimiento de los casos para prevenir futuros accidentes.
+   
+- Cumplir con las normativas de seguridad y salud en el trabajo.
 
 * Problemas Identificados:  
-- ….
+- Reportes incompletos que dificultan el análisis posterior.
+  
+- Uso de medios informales (WhatsApp, papel, Excel) que generan desorden.
+  
+- Pérdida de información por documentos extraviados o dañados.
+  
+- Dificultad en consolidar datos para elaborar informes y reportes oficiales.
+  
+- Falta de trazabilidad en los procesos de gestión de incidentes.
 
 * Requerimientos para una plataforma ideal:  
-- ….
+- Un sistema digital centralizado y seguro para registrar los incidentes.
+  
+- Formularios estructurados que obliguen a completar todos los campos necesarios.
+  
+- Posibilidad de almacenar y consultar reportes anteriores de forma organizada.
+  
+- Herramientas para consolidar automáticamente los datos y generar informes.
+  
+- Interfaz simple y accesible para que todo el personal pueda usarla fácilmente.
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
 
