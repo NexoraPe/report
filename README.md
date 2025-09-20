@@ -211,9 +211,9 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br><br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido.
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br><br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br> **Vidal Castro, Miguel Angel**<br>_**TB1**_<br><br> Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios<br> 
 _**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]| Conclusion Aqui |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** |**Cacho Seminario, Diego Alonso**<br>_**TB1**_<br><br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]| Conclusion Aqui |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** |**Cacho Seminario, Diego Alonso**<br>_**TB1**_<br><br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Morbi vel tortor id eros dictum venenatis id ut dui.<br>Mauris quis tellus sed nunc hendrerit vehicula ac id mauris.<br>Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.<br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]<br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br> Pude identificar los software architecture diagrams, diseñar el diagrama de clases, elaborar el landing page y de tal manera fui identificando los bounded context, funcionalidades y con los datos recolectados de las entrevistas. <br>_**TP**_<br>[TP aqui blablablab]<br>_**TB2**_<br>[Tb2 aqui ;V blablaba]<br>_**TF**_<br>[TF aqui ;V blablabla]| Conclusion Aqui |
 
 
 <div style="page-break-after: always;">
@@ -1150,9 +1150,41 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
+<img width="578" height="19" alt="Image" src="./imgs/createaccount.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/resetpassword.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/login.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/profile.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/incidents.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/Assigments.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/notifications.png />
+
+<img width="650" height="200" alt="Image" src="./imgs/analytics.png />
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.3. Web Applications Mock-ups.
+
+<img width="622" height="548" alt="Image" src="https://github.com/user-attachments/assets/ccde196c-b4a1-4153-943f-ef677e4d6ea9" />
+
+<img width="644" height="558" alt="Image" src="https://github.com/user-attachments/assets/9e04da77-3939-4288-8d9a-16bfe79626bb" />
+
+<img width="628" height="556" alt="Image" src="https://github.com/user-attachments/assets/c4ed98aa-16ff-4f0a-9dee-3b6501314d6b" />
+
+<img width="624" height="556" alt="Image" src="https://github.com/user-attachments/assets/fd54f64d-1bd5-4be8-9d8b-fedcc22917dc" />
+
+<img width="627" height="554" alt="Image" src="https://github.com/user-attachments/assets/5a238aa1-486d-4904-b5c9-fcac2c47aede" />
+
+<img width="623" height="555" alt="Image" src="https://github.com/user-attachments/assets/369e3c38-9da7-47f8-b7ce-ce7e85551456" />
+
+<img width="619" height="548" alt="Image" src="https://github.com/user-attachments/assets/e14c5e31-2228-483e-997b-f2d87287bd55" />
+
+<img width="623" height="553" alt="Image" src="https://github.com/user-attachments/assets/199b9ac3-0bfb-49bf-bc5e-854cee9c840a" />
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
