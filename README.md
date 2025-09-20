@@ -1110,6 +1110,9 @@ El pie de página complementa la navegación con enlaces a información adiciona
 La arquitectura modular permite agregar, modificar o eliminar secciones sin afectar el resto de la página, facilitando la escalabilidad y mantenimiento del sitio.
 
 ## 4.3. Landing Page UI Design.
+
+Enlace al Landing Page: https://nexorape.github.io/Landing-Page/ 
+
 ### 4.3.1. Landing Page Wireframe.
 
 <img width="658" height="345" alt="Image" src="https://github.com/user-attachments/assets/09868085-60ed-4896-b8ce-247c0d168524" />
@@ -1151,24 +1154,45 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
+**Create Account**  
+Pantalla para que los usuarios creen una nueva cuenta ingresando sus datos básicos.  
 <img alt="Create Account" src="./imgs/createaccount.png" />
 
+**Reset Password**  
+Interfaz que permite recuperar el acceso en caso de olvidar la contraseña.  
 <img alt="Reset Password" src="./imgs/resetpassword.png" />
 
+**Login**  
+Formulario de inicio de sesión para acceder a la aplicación.  
 <img alt="Login" src="./imgs/login.png" />
 
+**Profile**  
+Sección del perfil de usuario con información personal, roles y certificaciones.  
 <img alt="Profile" src="./imgs/profile.png" />
 
+**Incidents**  
+Pantalla de gestión de incidentes, donde se listan, detallan y crean reportes.  
 <img alt="Incidents" src="./imgs/incidents.png" />
 
+**Assignments**  
+Vista de asignaciones que muestra el estado, detalles y SLA de las tareas asignadas.  
 <img alt="Assignments" src="./imgs/Assigments.png" />
 
+**Notifications**  
+Módulo para ver notificaciones recibidas, pendientes o enviadas.  
 <img alt="Notifications" src="./imgs/notifications.png" />
 
+**Analytics**  
+Panel de análisis con métricas, reportes y tendencias de incidentes.  
 <img alt="Analytics" src="./imgs/analytics.png" />
 
 
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+En el presente diagrama se observa como desde el login se tiene la opción de abrir la vista de creación de cuenta, reinicio de contraseña en caso de olvidarla. Luego al pasar el login, se dirige a la pantalla de profile para colocar los datos personales. Luego desde la barra lateral se manejará de manera simple y sencilla la navegación en la app para los usuarios. 
+
+<img width="323" height="555" alt="Image" src="https://github.com/user-attachments/assets/10349bf9-066f-4336-ac09-6bd669c9ef2f" />
 
 ### 4.4.3. Web Applications Mock-ups.
 
@@ -1190,9 +1214,13 @@ La arquitectura modular permite agregar, modificar o eliminar secciones sin afec
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+<img width="303" height="562" alt="Image" src="https://github.com/user-attachments/assets/25821459-1dfb-4c29-8113-0c74b1862f76" />
 
 ## 4.5. Web Applications Prototyping.
 
+<img width="546" height="481" alt="Image" src="https://github.com/user-attachments/assets/680b1fee-73bc-4b87-99e6-594501bc20f3" />
+
+Enlace al figma: https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&t=vINDSY2w8lBsUY2f-1 
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
