@@ -1172,7 +1172,9 @@ Enlace al Landing Page: https://nexorape.github.io/Landing-Page/
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+En el presente diagrama se observa como desde el login se tiene la opción de abrir la vista de creación de cuenta, reinicio de contraseña en caso de olvidarla. Luego al pasar el login, se dirige a la pantalla de profile para colocar los datos personales. Luego desde la barra lateral se manejará de manera simple y sencilla la navegación en la app para los usuarios. 
 
+<img width="323" height="555" alt="Image" src="https://github.com/user-attachments/assets/10349bf9-066f-4336-ac09-6bd669c9ef2f" />
 
 ### 4.4.3. Web Applications Mock-ups.
 
@@ -1194,6 +1196,7 @@ Enlace al Landing Page: https://nexorape.github.io/Landing-Page/
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+<img width="303" height="562" alt="Image" src="https://github.com/user-attachments/assets/25821459-1dfb-4c29-8113-0c74b1862f76" />
 
 ## 4.5. Web Applications Prototyping.
 
