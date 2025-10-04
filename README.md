@@ -1536,8 +1536,8 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 | Sprint 0 Review Summary | \- |
 | Sprint 0 Retrospective Summary | \- |
 | Sprint Goal & User Stories |  |
-| Sprint 2 Goal | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor. Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas. |
-| Sprint 2 Velocity | 15 |
+| Sprint 1 Goal | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor. Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas. |
+| Sprint 1 Velocity | 15 |
 | Sum of Story Points | 15 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
@@ -1597,6 +1597,103 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 <img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/b3d3a865-39ff-41c8-8352-a26f2960a093" />
+
+#### **5.2.2. Sprint 2**
+
+##### 5.2.2.1. Sprint Planning 2\.
+
+*  Sprint Details
+
+| Sprint \# | Sprint 2 |
+| :---: | :---: |
+| Sprint Planning Background |  |
+| Date | 2025-09-28 |
+| Time | 17:20 PM |
+| Location | Aula H-51, después de las clases (previamente acabadas) \+ Remota |
+| Prepared By | SafeWork |
+| Attendees (to planning meeting) | Amir Gabriel Castro Sánchez / Guillermo Fabián Tantaleán Mesta / Miguel Angel Vidal Castro / Diego Alonso Cacho Seminario |
+| Sprint 1 Review Summary | Para el Sprint 1, realizamos la estructura principal del documento además de la primera versión del Landing Page. |
+| Sprint 1 Retrospective Summary | Durante el Sprint 1, realizamos entrevistas a nuestros segmentos objetivos lo que nos permitió conocer más sus necesidades y realizar un Landing Page que le permita a estos usuarios conocer nuestro producto. |
+| Sprint Goal & User Stories |  |
+| Sprint 2 Goal | Para el Sprint 2, buscamos desarrollar y desplegar un Frontend funcional para SafeWork utilizando tecnologías JSON servers y Fake API. |
+| Sprint 2 Velocity | \# |
+| Sum of Story Points | \# |
+
+##### 
+
+##### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (L/C) | Frontend Development (L/C) | Quality Control (L/C) | Documentation (L/C) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | C | C | C | L |
+| Vidal Castro, Miguel Angel | Gossk | L | L | C | C |
+| Tantaleán Mesta, Guillermo Fabián | guillermotantalean1 | C | C | L | C |
+| Diego Alonso, Cacho Seminario | Memesitos | C | C | L | L |
+
+##### 
+
+##### 5.2.2.3. Sprint Backlog 2\.
+
+**Objetivo:** Desarrollar y desplegar un Frontend funcional para SafeWork utilizando tecnologías de JSON servers.
+
+**Alcance:**
+
+* Implementar un Fake API para la obtención de la información  
+* Aplicar seguridades básicas  
+* Verificar las correcciones del Sprint 1  
+* Actualizar el Landing Page con los enlaces del Frontend 
+
+**Duración:** 20 de Septiembre \- 08 de Octubre de 2025
+
+**Capacidad de equipo:** 140 horas totales \- 4 integrantes
+
+**Requisitos técnicos:** Google Docs, GitHub, Angular CLI, NodeJS, WebStorm IDE
+
+| Task ID | User Story | Description | Assigned To | Estimated Hours | Status | Epic |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| T01 | US09 | Generar un reporte de Accidente | Vidal Castro, Miguel Angel | 4 | Completed | EP04 |
+| T02 | US10 | Generar un reporte de Incidente | Vidal Castro, Miguel Angel | 4 | Completed | EP04 |
+| T03 | US12 | Revisión de Reportes | Vidal Castro, Miguel Angel | 4 | Completed | EP05 |
+| T04 | US15 | Visualizar Estado del Reporte | Vidal Castro, Miguel Angel | 3 | Completed | EP05 |
+| T05 | US25 | Visualizar notas internas del caso | Cacho Seminario, Diego Alonso | 3 | Completed | EP09 |
+| T06 | US28 | Visualización de reportes en pantalla (sin descarga) | Cacho Seminario, Diego Alonso | 2 | Completed | EP07 |
+| T07 | US12 | Visualización de lista de reportes | Castro Sanchez, Amir Gabriel | 4 | Completed | EP05 |
+| T08 | US36 | Validación de campos obligatorios en registro | Tantaleán Mesta, Guillermo Fabián | 4 | Completed | EP06 |
+| T09 | US04 | Registro de Usuario | Tantaleán Mesta, Guillermo Fabián | 5 | Completed | EP02 |
+| T10 | US05 | Inicio de Sesión Seguro | Cacho Seminario, Diego Alonso | 5 | Completed | EP02 |
+| T11 | \- | Avance del Documento | Tantaleán Mesta, Guillermo Fabián | 5 | Completed | \- |
+| T12 | \- | Organización del Código | Tantaleán Mesta, Guillermo Fabián | 3 | Completed | \- |
+
+##### 5.2.2.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit Message | Committed on (Date) |
+| ----- | ----- | ----- | ----- | ----- |
+| [https://github.com/NexoraPe/report?tab=readme-ov-file\#5213-sprint-backlog-1](https://github.com/NexoraPe/report?tab=readme-ov-file#5213-sprint-backlog-1)  | main |  |  | 0\#/10/2025 |
+|  | main |  |  | 0\#/10/2025 |
+|  | main |  |  | 0\#/10/2025 |
+|  | main |  |  | 0\#/10/2025 |
+|  | main |  |  | 0\#/10/2025 |
+
+##### 
+
+##### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Se evidencia el avance del Segundo Sprint por medio del siguiente link: link frontend desplegado
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Se evidencia la documentación de los servicios empleados:  
+imgs
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Link del Frontend: link frontend desplegado 
+
+##### 
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+imgs github con gitflow
 
 ---
 
