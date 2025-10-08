@@ -174,6 +174,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -205,8 +214,8 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br> <br> **Vidal Castro, Miguel Angel**<br>_**TB1**_<br> Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios<br> <br>**Tantaleán Mesta, Guillermo Fabián** <br>**TB1** <br> Comunico de manera clara y adaptable mis ideas a diferentes audiencias; cuando hablo con trabajadores utilizo un lenguaje sencillo y práctico para resaltar la facilidad de uso y el beneficio inmediato de reportar incidentes, mientras que con personal de seguridad y directivos empleo un discurso más técnico y estratégico, destacando la trazabilidad, la reducción de riesgos legales y la optimización de procesos, asegurando así que mi mensaje sea comprendido e impactante en todos los niveles de la organización.<br> <br>**Castro Sanchez, Amir Gabriel** <br>**TB1** <br> Expliqué las ideas del proyecto adaptando mi lenguaje según la audiencia; con los trabajadores fui más sencillo y práctico, mientras que con personal de seguridad resalté los beneficios de control y trazabilidad.<br> | El grupo adaptó su forma de expresarse según la audiencia, usando un lenguaje sencillo con trabajadores y un enfoque más técnico con personal de seguridad y directivos, logrando transmitir el valor de SafeWork en distintos niveles.|
-**Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br> <br> **Vidal Castro, Miguel Angel**<br>_**TB1**_<br> Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios<br> <br> **Tantaleán Mesta, Guillermo Fabián** <br>**TB1** <br> Redacto documentos, reportes y materiales con un estilo estructurado y profesional que adapto según la audiencia; utilizo mensajes breves y fáciles de comprender para trabajadores, y presento información más detallada y analítica para el personal de seguridad y directivos, logrando que mi comunicación escrita sea efectiva en distintos rangos de la empresa y que contribuya tanto a la prevención como a la toma de decisiones estratégicas.<br> <br>**Castro Sanchez, Amir Gabriel** <br>**TB1** <br> Redacté mis aportes de manera clara y organizada, con mensajes simples para trabajadores y textos más técnicos para personal de seguridad y responsables de gestión.<br> | El equipo redactó documentos claros y diferenciados para cada público, priorizando la simplicidad con trabajadores y la profundidad con personal de seguridad, lo que permitió comunicar con precisión y profesionalismo.
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br>_**TP**_<br>Realice las correcciones necesarias de la entrega anterior (TB1) teniendo en cuenta el cambio en las secciones de los User Stories y Sprint 1, además para la entrega del TP aporte para el punto general del Sprint 2 y tmabién realice el endpoint de "profile" de la aplicación web. <br> <br> **Vidal Castro, Miguel Angel**<br>_**TB1**_<br> Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios<br> <br>**Tantaleán Mesta, Guillermo Fabián** <br>**TB1** <br> Comunico de manera clara y adaptable mis ideas a diferentes audiencias; cuando hablo con trabajadores utilizo un lenguaje sencillo y práctico para resaltar la facilidad de uso y el beneficio inmediato de reportar incidentes, mientras que con personal de seguridad y directivos empleo un discurso más técnico y estratégico, destacando la trazabilidad, la reducción de riesgos legales y la optimización de procesos, asegurando así que mi mensaje sea comprendido e impactante en todos los niveles de la organización.<br> <br>**Castro Sanchez, Amir Gabriel** <br>**TB1** <br> Expliqué las ideas del proyecto adaptando mi lenguaje según la audiencia; con los trabajadores fui más sencillo y práctico, mientras que con personal de seguridad resalté los beneficios de control y trazabilidad.<br> | El grupo adaptó su forma de expresarse según la audiencia, usando un lenguaje sencillo con trabajadores y un enfoque más técnico con personal de seguridad y directivos, logrando transmitir el valor de SafeWork en distintos niveles.|
+**Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br>_**TP**_<br> Publique y subi correctamente los avances realizados para la entrega del Trabajo Parcial, además realice mis grabaciones y diapositivas para el video de exposición y para la presentación en clase. <br> <br> **Vidal Castro, Miguel Angel**<br>_**TB1**_<br> Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios<br> <br> **Tantaleán Mesta, Guillermo Fabián** <br>**TB1** <br> Redacto documentos, reportes y materiales con un estilo estructurado y profesional que adapto según la audiencia; utilizo mensajes breves y fáciles de comprender para trabajadores, y presento información más detallada y analítica para el personal de seguridad y directivos, logrando que mi comunicación escrita sea efectiva en distintos rangos de la empresa y que contribuya tanto a la prevención como a la toma de decisiones estratégicas.<br> <br>**Castro Sanchez, Amir Gabriel** <br>**TB1** <br> Redacté mis aportes de manera clara y organizada, con mensajes simples para trabajadores y textos más técnicos para personal de seguridad y responsables de gestión.<br> | El equipo redactó documentos claros y diferenciados para cada público, priorizando la simplicidad con trabajadores y la profundidad con personal de seguridad, lo que permitió comunicar con precisión y profesionalismo.
 
 
 
@@ -1598,9 +1607,8 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 <img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/b3d3a865-39ff-41c8-8352-a26f2960a093" />
 
-#### **5.2.2. Sprint 2**
-
-##### 5.2.2.1. Sprint Planning 2\.
+#### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
 
 *  Sprint Details
 
@@ -1632,7 +1640,7 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 
 ##### 
 
-##### 5.2.2.3. Sprint Backlog 2\.
+##### 5.2.2.3. Sprint Backlog 2.
 
 **Objetivo:** Desarrollar y desplegar un Frontend funcional para SafeWork utilizando tecnologías de JSON servers.
 
@@ -1667,12 +1675,13 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 ##### 5.2.2.4. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit ID | Commit Message | Committed on (Date) |
-| ----- | ----- | ----- | ----- | ----- |
-| [https://github.com/NexoraPe/report?tab=readme-ov-file\#5213-sprint-backlog-1](https://github.com/NexoraPe/report?tab=readme-ov-file#5213-sprint-backlog-1)  | main |  |  | 0\#/10/2025 |
-|  | main |  |  | 0\#/10/2025 |
-|  | main |  |  | 0\#/10/2025 |
-|  | main |  |  | 0\#/10/2025 |
-|  | main |  |  | 0\#/10/2025 |
+| ----- | :---: | :---: | ----- | :---: |
+| [https://github.com/NexoraPe/report?tab=readme-ov-file\#5213-sprint-backlog-1](https://github.com/NexoraPe/report?tab=readme-ov-file#5213-sprint-backlog-1)  | feature/Diego | 61fb7b1 | docs: fixed TB1 User Stores/Sprint Planning 1 issues | 04/10/2025 |
+|  | feature/Diego | cb3c354 | docs: add Sprint 2 version 1 | 04/10/2025 |
+|  | main/front-safework | ab2dd02 | chore: add db.json, routes.json for json-server setup and start-scripts for fake api | 29/09/2025 |
+|  | develop/front-safework | 99081b1 | chore: add db.json, routes.json for json-server setup and start-scripts for fake api | 06/10/2025 |
+|  | feature/incidents | 5958200 | feat(incidents): add incidents-list.ts | 07/10/2025 |
+|  | feature/profile | 4db6b83 | feat(profile): add working profile screen with working database data | 08/10/2025 |
 
 ##### 
 
@@ -1685,13 +1694,13 @@ Se evidencia el avance del Segundo Sprint por medio del siguiente link: link fro
 Se evidencia la documentación de los servicios empleados:  
 imgs
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Link del Frontend: link frontend desplegado 
 
 ##### 
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint.
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 imgs github con gitflow
 
@@ -1701,10 +1710,18 @@ imgs github con gitflow
 ## Conclusiones y recomendaciones.
 
 - TB1:
+
 La propuesta de **SafeWork** surge como una respuesta directa a las necesidades identificadas en el ámbito de la seguridad y salud en el trabajo. Su idea de valor se centra en ofrecer a trabajadores y personal de SST una plataforma confiable, ágil y transparente para reportar, gestionar y dar seguimiento a accidentes e incidentes laborales. A diferencia de los sistemas internos tradicionales, que suelen presentar fallas técnicas, procesos burocráticos o limitaciones de acceso, SafeWork busca garantizar que cada reporte sea rápido de registrar, fácil de rastrear y seguro en el manejo de la información.
 
 En conjunto, lo avanzado hasta la entrega TB1 permite concluir que **SafeWork** representa una solución innovadora y viable para digitalizar, simplificar y dar transparencia al proceso de gestión de incidentes laborales, aportando valor tanto a los trabajadores que buscan seguridad y claridad como al personal de SST que requiere herramientas efectivas para gestionar casos y tomar decisiones preventivas. 
 
+- TP:
+
+Durante la etapa de entrega del TP, **SafeWork** alcanzó un avance significativo al dar sus primeros pasos técnicos hacia una versión funcional de la plataforma. Se desplegó la primera versión del frontend, utilizando Microsoft Azure para el mock API y GitHub Pages para la publicación del entorno web, lo que permitió validar la estructura base de la interfaz de usuario y sentar las bases para futuras integraciones con el backend.
+
+Asimismo, se incorporó el Sprint 2, ampliando las funcionalidades planificadas y fortaleciendo la hoja de ruta del desarrollo ágil. Se implementaron mejoras derivadas de las observaciones de la entrega TB1, lo que permitió afinar tanto la propuesta de valor como la estructura técnica y de diseño.
+
+Este avance marca una etapa clave en la consolidación del proyecto, pasando de la definición conceptual y estratégica a una versión visual e interactiva que permitirá realizar pruebas tempranas, recibir retroalimentación de usuarios y continuar evolucionando hacia un producto funcional y validado en su entorno real.
 
 ---
 
@@ -1721,14 +1738,20 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 # Anexos
 - Enlace para acceder al [video de exposición de TB1] (https://link.com)
 
+- Enlace para acceder al [video de exposición de TP] (https://link.com)
+
 - Enlace para acceder al [Figma](https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&p=f&t=DSclDKaWIfieBQf6-0)
 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
+
+- - Enlace para acceder al [frontend](https://nexorape.github.io/)
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
 - Enlace para acceder al [repositorio de reporte](https://github.com/NexoraPe/report)
 
 - Enlace para acceder al [repositorio de landing page](https://github.com/NexoraPe/Landing-Page)
+
+- - Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/)
 
 
