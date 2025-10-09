@@ -1089,7 +1089,7 @@ Los campos están etiquetados con términos sencillos y comprensibles, como **�
 
 La plataforma SafeWork incorpora metaetiquetas esenciales para mejorar el posicionamiento en buscadores, facilitar la lectura por parte de motores de búsqueda y garantizar una experiencia óptima en navegadores modernos y dispositivos móviles. A continuación, se detallan las principales meta etiquetas utilizadas:
 
-Título: La etiqueta <title> es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
+Título: La etiqueta title es una de las más relevantes para SEO. Define el nombre que aparece en la pestaña del navegador y en los resultados de búsqueda.
 
 <img width="578" height="19" alt="Image" src="https://github.com/user-attachments/assets/80eb332d-b023-4ad2-93d4-f2a3239f9098" />
 
@@ -1547,8 +1547,6 @@ Para lograr una legibilidad y calidad de código excelente, adoptamos una serie 
 | Location | Aula H-51, después de las clases (previamente acabadas) \+ Remota |
 | Prepared By | SafeWork |
 | Attendees (to planning meeting) | Amir Gabriel Castro Sánchez / Guillermo Fabián Tantaleán Mesta / Miguel Angel Vidal Castro / Diego Alonso Cacho Seminario |
-| Sprint 0 Review Summary | \- |
-| Sprint 0 Retrospective Summary | \- |
 | Sprint Goal & User Stories |  |
 | Sprint 1 Goal | Nuestro enfoque está en desarrollar y desplegar una landing page funcional que presente eficazmente nuestro producto. Creemos que esto genera una primera interacción positiva y clara con potenciales clientes, facilitando su comprensión y conexión inicial con la propuesta de valor. Esto se confirmará cuando recibamos las primeras visitas y observemos señales básicas de interés, como clics en elementos clave, navegación dentro de la página y comentarios iniciales de usuarios o colegas. |
 | Sprint 1 Velocity | 15 |
@@ -1741,15 +1739,15 @@ ISO 45001:2018(es) Sistemas de gestión de la seguridad y salud en el trabajo �
 Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar de trabajo. (2024, 30 enero). International Labour Organization. [https://www.ilo.org/es/resource/metas-de-los-ods-pertinentes-vinculados-con-la-seguridad-y-la-salud-en-el](https://www.ilo.org/es/resource/metas-de-los-ods-pertinentes-vinculados-con-la-seguridad-y-la-salud-en-el)
 
 # Anexos
-- Enlace para acceder al [video de exposición de TB1] (https://link.com)
+- Enlace para acceder al [video de exposición de TB1](https://link.com)
 
-- Enlace para acceder al [video de exposición de TP] (https://link.com)
+- Enlace para acceder al [video de exposición de TP](https://link.com)
 
 - Enlace para acceder al [Figma](https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&p=f&t=DSclDKaWIfieBQf6-0)
 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
 
-- - Enlace para acceder al [frontend](https://nexorape.github.io/)
+- Enlace para acceder al [frontend](https://nexorape.github.io/)
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
@@ -1757,6 +1755,6 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [repositorio de landing page](https://github.com/NexoraPe/Landing-Page)
 
-- - Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/)
+- Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/)
 
 
