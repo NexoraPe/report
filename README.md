@@ -1685,16 +1685,31 @@ Link del Landing Page: [https://nexorape.github.io/Landing-Page/](https://nexora
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review.
 
-Se evidencia el avance del Segundo Sprint por medio del siguiente link: link frontend desplegado
+Se evidencia el avance del Segundo Sprint por medio del siguiente link: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Se evidencia la documentación de los servicios empleados:  
-imgs
+
+JSON SERVER FAKE API:
+https://safeworkapi.azurewebsites.net
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Link del Frontend: link frontend desplegado 
+Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
+![imgs/img.png](imgs/img.png)
+
+![imgs/img_1.png](imgs/img_1.png)
+
+![imgs/img_2.png](imgs/img_2.png)
+
+![imgs/img_3.png](imgs/img_3.png)
+
+![imgs/img_4.png](imgs/img_4.png)
+
+![imgs/img_5.png](imgs/img_5.png)
+
+![imgs/img_6.png](imgs/img_6.png)
 
 ##### 
 
