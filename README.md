@@ -80,8 +80,11 @@
 # Project Report Collaboration Insights
 **URL del repositorio para el Project Report:** [https://github.com/boafe/report](https://github.com/boafe/report)
 
+TB1:
 <img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/e2d3423e-5c75-4b98-acaa-dd80a9e20d86" />
 
+TP:
+![imgs/img.png](imgs/img8.png)
 
 ---
 
@@ -1715,7 +1718,7 @@ Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-imgs github con gitflow
+![imgs/img7.png](imgs/img7.png)
 
 ---
 
