@@ -1742,7 +1742,7 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
 
-- - Enlace para acceder al [frontend](https://nexorape.github.io/)
+- - Enlace para acceder al [frontend](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/)
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
