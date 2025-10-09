@@ -74,13 +74,18 @@
 |     ---     |     ---   |     ---   |             ---                 |
 | 1.0 | 26/08/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
 | 1.1 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
+| 2.0 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (enlaces, idioma de artefactos, etc), se agregó la planificación y desarrollo del sprint 2, se desplegó una nueva versión de la landing page y se desplegó una primera versión del frontend web app.|
 
 ---
 
 # Project Report Collaboration Insights
 **URL del repositorio para el Project Report:** [https://github.com/boafe/report](https://github.com/boafe/report)
 
+**TB1**
+
 <img width="911" height="825" alt="Captura de pantalla 2025-09-20 034403" src="https://github.com/user-attachments/assets/e2d3423e-5c75-4b98-acaa-dd80a9e20d86" />
+
+**TP**
 
 
 ---
