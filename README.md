@@ -1741,13 +1741,13 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 # Anexos
 - Enlace para acceder al [video de exposición de TB1](https://link.com)
 
-- Enlace para acceder al [video de exposición de TP](https://link.com)
+- Enlace para acceder al [video de exposición de TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EWjqxTt12QpFmL4tTzy35twBxU9JYS-gXm8b_xMsmaewgA?e=cN9jk2)
 
 - Enlace para acceder al [Figma](https://www.figma.com/design/4lfYU4omqUax0rxIYtyXp1/Untitled?node-id=87-101&p=f&t=DSclDKaWIfieBQf6-0)
 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
 
-- Enlace para acceder al [frontend](https://nexorape.github.io/)
+- Enlace para acceder al [frontend](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/)
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
