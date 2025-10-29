@@ -1341,8 +1341,7 @@ El diagrama de contenedores descompone **SafeWork** en sus partes principales:
 ### 4.6.4. Software Architecture Components Diagrams.
 
 #### 1. Incident Service 
-Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre.  
-Incluye la máquina de estados, el agregado de dominio y el repositorio para persistencia. 
+Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre, incluyendo la máquina de estados, el agregado de dominio y el repositorio para persistencia.
 
 ![imgs](./imgs/component1.png)
 
