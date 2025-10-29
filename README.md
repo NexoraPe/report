@@ -1364,8 +1364,7 @@ Se apoya en un pipeline de eventos y un almacén analítico.
 ![imgs](./imgs/component4.png)
 
 #### 5. Auth Service 
-Encargado de la autenticación y autorización de usuarios.  
-Implementa SSO, OAuth2 y JWT para validar identidad y permisos de acceso.
+Encargado de la autenticación y autorización de usuarios. Validando identidad y permisos antes de acceder a otros servicios.
 
 ![imgs](./imgs/component5.png)
 
