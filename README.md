@@ -1336,7 +1336,7 @@ El diagrama de contenedores descompone **SafeWork** en sus partes principales:
 - **Database** para el almacenamiento de información.
 - Integración con un **Notification Gateway** externo para el envío de notificaciones por SMS y correo electrónico.  
 
-![imgs](./imgs/containerdiagram.png)
+![imgs](./imgs/containterdiagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
