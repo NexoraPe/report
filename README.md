@@ -1331,9 +1331,10 @@ Este nivel refleja la visión global del sistema y cómo los usuarios acceden a 
 
 El diagrama de contenedores descompone **SafeWork** en sus partes principales:  
 - **Landing Page** como punto de entrada.  
-- **Web App** para la interacción de usuarios.  
-- **API REST** que centraliza la lógica de negocio.  
-- Los 5 **Bounded Contexts**: *Incidents, Assignment, Notification, Analytics y Profile*.  
+- **Web App** para la interacción de usuarios.
+- **Backend API** que centraliza la lógica de negocio y gestiona la comunicación con otros sistemas.
+- **Database** para el almacenamiento de información.
+- Integración con un **Notification Gateway** externo para el envío de notificaciones por SMS y correo electrónico.  
 
 ![imgs](./imgs/containterdiagram.png)
 
