@@ -189,6 +189,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1799,8 +1808,8 @@ Link del Backend: link Backend desplegado
 
 imgs github con gitflow
 
-**5.3. Validation Interviews**  
-5.3.1. Diseño de entrevistas.  
+## **5.3. Validation Interviews**  
+### 5.3.1. Diseño de Entrevistas  
 Con el objetivo de recolectar información de nuestros usuarios se realizaron una serie de entrevistas para verificar el rendimiento del Landing Page y el Frontend.
 
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales**  
@@ -1859,7 +1868,7 @@ Preguntas principales (Frontend):
 * ¿Qué mejorarías de la interfaz o del flujo de reporte?  
 * Después de probar el prototipo, ¿usarías SafeWork si estuviera implementado en tu empresa?
 
-5.3.2. Registro de Entrevistas.
+#### 5.3.2. Registro de Entrevistas.
 
 Video completo con las entrevistas: link
 
@@ -1964,6 +1973,156 @@ Para Diego, …
 
 \*foto\*
 
+#### 5.3.3. Evaluaciones según heurísticas.  
+**SITE o APP A EVALUAR:** SafeWork
+
+**TAREAS A EVALUAR:**  
+El alcance de la siguiente evaluación presenta la revisión de la usabilidad de las presentes tareas:
+
+1. Presentación y Funcionalidad del Landing Page  
+2. Registro de un usuario nuevo  
+3. Asignación y Lista de Incidentes  
+4. Notificaciones
+
+No están incluidas en esta versión de evaluaciones las siguientes tareas:
+
+1. Sistema de mensajería entre usuarios  
+2. Sistema de descarga de archivos  
+3. Analíticas de Incidentes
+
+**ESCALA DE SEVERIDAD**  
+Se presenta una lista de puntuación para la calificación de las tareas.
+
+| Nivel | Descripción |
+| ----- | :---- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN**
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | :---: | ----- |
+| **1** | Los botones de “Learn More” no indican a qué sección de suscripción el usuario va a ser redireccionado. | 1 | Aesthetic and minimalist design. |
+| **2** | Las secciones de los tres planes disponibles no presentan un interruptor para cambiar el idioma. | 2 | Usability: Libertad y control del usuario |
+| **3** | La sección del “Standard Plan” presenta un error ortográfico notable en el nombre del recuadro. | 1 | Usability: Consistencia y estándares |
+| **4** | El botón o interruptor del cambio de idioma en la sección de “List of Incidents” en la aplicación web no funciona. | 2 | Information Architecture: Is it usable? |
+| **5** | Algunas configuraciones de color en la sección del “Tablero de asignaciones” no permiten ver el contenido con facilidad. | 2 | Inclusive Design: Proporciona experiencias comparables |
+| **6** | Los botones de “Edit Information”, “Log Out” y “Delete Account” de la sección de “Profile” no funcionan correctamente. | 2 | Information Architecture: Is it usable? |
+| **7** | Los botones de “+ Create Report” y “Upload Report” no funcionan correctamente. | 2 | Information Architecture: Is it usable? |
+| **8** | La paleta de colores en la sección de “Notificaciones” no es consistente con el resto de pantallas en la aplicación. | 2 | Usability: Consistencia y estándares |
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+*PROBLEMA \#1: Los botones de “Learn More” no indican a qué sección de suscripción el usuario va a ser redireccionado.*
+
+*Severidad: 1*  
+*Heurística violada: Aesthetic and minimalist design.*
+
+*Problema:*  
+*Al momento de presionar los botones de “Learn More” dentro de la sección de “Plans”, los botones en la parte inferior no indican a qué página de los planes te van a llevar, lo cual nos obliga a presionar cada uno de ellos hasta encontrar el plan que nos interesa.*
+
+*![][image88]*
+
+*Recomendación:*  
+*Realizar un cambio de nombre a cada botón para que indique a qué página del plan llevará al usuario.*
+
+*PROBLEMA \#2: Las secciones de los tres planes disponibles no presentan un interruptor para cambiar el idioma.*
+
+*Severidad: 2*  
+*Heurística violada: Usability: Libertad y control del usuario*
+
+*Problema:*  
+*Las páginas de los planes disponibles para SafeWork no tienen un botón o interruptor para cambiar el idioma disponible a diferencia del resto del Landing Page.*
+
+*![][image89]*
+
+*Recomendación:*  
+*Colocar un botón o interruptor para cambiar el idioma de la página en la que se encuentra el usuario de manera similar al resto del Landing Page.*
+
+*PROBLEMA \#3: La sección del “Standard Plan” presenta un error ortográfico notable en el nombre del recuadro.*
+
+*Severidad: 1*  
+*Heurística violada: Usability: Consistencia y estándares*
+
+*Problema:*  
+*Existe un error ortográfico notable en la página del “Standard Plan” el cual indica que existe un plan “Standart”, cosa la cual no existe como plan en SafeWork.*
+
+*![][image90]*
+
+*Recomendación:*  
+*Corregir el error ortográfico en la palabra “Standart” para que muestre la palabra correcta “Standard”.*
+
+*PROBLEMA \#4: El botón o interruptor del cambio de idioma en la sección de “List of Incidents” en la aplicación web no funciona.*
+
+*Severidad: 2*  
+*Heurística violada: Information Architecture: Is it usable?*
+
+*Problema:*  
+*Al ingresar a la aplicación web de SafeWork, en la sección de “List of Incidents” dentro de “Incidents”, el botón o interruptor para cambiar el idioma no funciona correctamente  a diferencia del resto de la aplicación web.*
+
+*![][image91]*
+
+*Recomendación:*  
+*Implementar la funcionalidad del cambio de idioma para la sección de “List of Incidents”.*
+
+*PROBLEMA \#5: Algunas configuraciones de color en la sección del “Tablero de asignaciones” no permiten ver el contenido con facilidad.*
+
+*Severidad: 2*  
+*Heurística violada: Inclusive Design: Proporciona experiencias comparables*
+
+*Problema:*  
+*Al ingresar a la sección de “Tablero de asignaciones” en “Asignaciones”, al verificar un indecente abierto, los colores elegidos no contrastan bien con la sección de “Fecha Límite”, el cual no le permite al usuario poder leer bien esa sección.*
+
+*![][image92]*
+
+*Recomendación:*  
+*Cambiar el color de la fuente elegida para la sección de Asignaciones o modificar el color del fondo para tener un mejor contraste.*
+
+*PROBLEMA \#6: Los botones de “Edit Information”, “Log Out” y “Delete Account” de la sección de “Profile” no funcionan correctamente.*
+
+*Severidad: 2*  
+*Heurística violada: Information Architecture: Is it usable?*
+
+*Problema:*  
+*Al presionar los botones de “Edit Information”, “Log Out” y “Delete Account” dentro de la sección de “Profile”, éstos no realizan ninguna acción por lo que el usuario no puede editar su información, cerrar sesión o eliminar su cuenta.*
+
+*![][image93]*
+
+*Recomendación:*  
+*Implementar la funcionalidad de cada uno de los botones.*
+
+*PROBLEMA \#7: Los botones de “+ Create Report” y “Upload Report” no funcionan correctamente.* 
+
+*Severidad: 2*  
+*Heurística violada: Information Architecture: Is it usable?*
+
+*Problema:*  
+*Al presionar los botones de ““+ Create Report” y “Upload Report” dentro de la sección de “List of Incidents”, éstos no realizan ninguna acción por lo que el usuario no puede crear o subir un reporte.*
+
+*![][image94]*
+
+*Recomendación:*  
+*Implementar la funcionalidad de cada uno de los botones.*
+
+*PROBLEMA \#8: La paleta de colores en la sección de “Notificaciones” no es consistente con el resto de pantallas en la aplicación.*
+
+*Severidad: 1*  
+*Heurística violada: Usability: Consistencia y estándares*
+
+*Problema:*  
+*La paleta de colores presente dentro de  la sección de “Notificaciones” no es consistente con el resto de pantallas en la aplicación. Lo que genera un choque y contraste al navegar en la aplicación.*
+
+*![][image95]*
+
+*Recomendación:*  
+*Ajustar la paleta de colores para que la pantalla presente de un contraste similar a la del resto.*
+
+## **5.4. Video About-the-Product.**  
+La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
+
+LINK: 
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
@@ -1982,7 +2141,15 @@ Asimismo, se incorporó el Sprint 2, ampliando las funcionalidades planificadas 
 
 Este avance marca una etapa clave en la consolidación del proyecto, pasando de la definición conceptual y estratégica a una versión visual e interactiva que permitirá realizar pruebas tempranas, recibir retroalimentación de usuarios y continuar evolucionando hacia un producto funcional y validado en su entorno real.
 
----
+- TB2:
+
+
+- TF:
+
+## **Video About-the-Team.**  
+La presente sección incluye el video del equipo que resume nuestro avance y trabajo a lo largo del proyecto.
+
+LINK: 
 
 # Bibliografía
 
@@ -2004,7 +2171,6 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
 
 - Enlace para acceder al [frontend](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/)
-
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
