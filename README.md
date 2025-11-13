@@ -1723,6 +1723,248 @@ Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 
 ---
 
+#### **5.2.3. Sprint 3**
+##### 5.2.3.1. Sprint Planning 3\.
+
+| Sprint \# | Sprint 3 |
+| :---: | ----- |
+| **Sprint Planning Background** |  |
+| Date | 2025-10-30 |
+| Time | 4:30 PM |
+| Location | Modalidad remota |
+| Prepared By | Equipo NexoraPE |
+| Attendees (to planning meeting) | Todos los miembros del equipo |
+| Sprint 3 \- 1 Review Summary | Para el Sprint anterior, se finalizó con el Frontend principal de SafeWork, verificamos que este cumpla con las historias de usuario y que se presenten la cantidad mínima de errores. |
+| Sprint 3 \- 1 Retrospective Summary | Respecto al Sprint anterior, logramos alcanzar el resultado que esperábamos para ese Sprint, sin embargo, consideramos que hubieron secciones que se podrían mejorar. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | Para el Sprint 3, buscamos desarrollar y desplegar el Backend de nuestro proyecto, conectándolo además con el Frontend de manera que estos dos estén sincronizados. |
+| Sprint 3 Velocity | \# |
+| Sum of Story Points | \# |
+
+#####
+##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (L/C) | Backend Development (L/C) | Quality Control (L/C) | Documentation (L/C) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | C | C | C | L |
+| Vidal Castro, Miguel Angel | Gossk | L | L | C | C |
+| Tantaleán Mesta, Guillermo Fabián | guillermotantalean1 | C | C | L | C |
+| Diego Alonso, Cacho Seminario | Memesitos | C | C | L | L |
+
+##### 5.2.3.3. Sprint Backlog 3\.
+
+| Sprint \# | Sprint 3 |  |  |  |  |  |  |
+| :---: | ----- | :---: | ----- | ----- | :---: | :---: | :---: |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | ----- | ----- | :---: |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+##### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+Se evidencia el avance del Tercer Sprint por medio del siguiente link: link backend desplegado
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Se evidencia la documentación de los servicios empleados:  
+imgs
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Link del Backend: link Backend desplegado 
+
+##### 
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+imgs github con gitflow
+
+**5.3. Validation Interviews**  
+5.3.1. Diseño de entrevistas.  
+Con el objetivo de recolectar información de nuestros usuarios se realizaron una serie de entrevistas para verificar el rendimiento del Landing Page y el Frontend.
+
+**Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales**  
+Preguntas personales:
+
+* ¿Cuál es tu nombre completo?  
+* ¿Cuántos años tienes?  
+* ¿En dónde vives?  
+* ¿En qué área de SST trabajas y desde hace cuánto tiempo?  
+* ¿Con qué frecuencia gestionas reportes de incidentes o accidentes?  
+* ¿Qué herramientas utilizas actualmente para registrar y gestionar incidentes?
+
+Preguntas principales (Landing Page):
+
+* ¿La landing page te ayudó a entender rápidamente qué es SafeWork?  
+* ¿La información presentada te parece clara y relevante para tu trabajo?  
+* ¿La navegación de la landing page te pareció intuitiva?  
+* ¿El diseño te transmite profesionalismo y confianza?  
+* ¿Hubo algo en la landing page que no entendieras o te generara dudas?
+
+Preguntas principales (Frontend):
+
+* ¿Pudiste identificar fácilmente dónde revisar reportes, estados o detalles de un caso?  
+* ¿La forma en que se presentan los reportes te parece clara y ordenada?  
+* ¿El flujo de revisión/asignación/seguimiento es coherente con tus tareas diarias?  
+* ¿Qué tan útil te resulta la visualización del estado y la línea de tiempo del caso?  
+* ¿Consideras que SafeWork facilitaría tu trabajo respecto a tus métodos actuales?  
+* ¿Qué funcionalidades crees que deberían añadirse o mejorarse?  
+* Después de usar el prototipo, ¿considerarías utilizar SafeWork en un entorno real?
+
+**Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**  
+Preguntas personales:
+
+* ¿Cuál es tu nombre completo?  
+* ¿Cuántos años tienes?  
+* ¿En dónde vives?  
+* ¿En qué área trabajas y cuántos años llevas en tu puesto?  
+* ¿Has sufrido o presenciado un accidente en tu lugar de trabajo?  
+* ¿Cómo realizaste el reporte en esa ocasión?
+
+Preguntas principales (Landing Page):
+
+* ¿La landing page te ayudó a entender el propósito de SafeWork?  
+* ¿El diseño te parece claro y fácil de entender?  
+* ¿Sientes que la plataforma se enfoca en resolver problemas reales para trabajadores?  
+* ¿Hubo algo confuso o poco claro en la información presentada?  
+* ¿Dirías que la landing page te inspira confianza y seriedad?
+
+Preguntas principales (Frontend):
+
+* ¿El proceso para reportar un incidente te pareció sencillo?  
+* ¿Los pasos del formulario son claros y no generan confusión?  
+* ¿La posibilidad de subir fotos/evidencias te parece útil?  
+* ¿Pudiste encontrar fácilmente dónde revisar el estado de tus reportes?  
+* ¿La visualización del avance del caso (etapas, cambios, estados) te resulta comprensible  
+* ¿Qué mejorarías de la interfaz o del flujo de reporte?  
+* Después de probar el prototipo, ¿usarías SafeWork si estuviera implementado en tu empresa?
+
+5.3.2. Registro de Entrevistas.
+
+Video completo con las entrevistas: link
+
+**Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
+
+Entrevistado N°1: Miguel Angel Saucedo Zambrano
+
+* Sexo: Masculino  
+* Edad: 34 años  
+* Ubicación en la que vive: Santiago de Chile
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:  
+* Duración: 3:24
+
+Resumen:
+
+Para Miguel, …..  
+\*foto\*
+
+Entrevistado N°2: Nicole Requena Saiwa
+
+* Sexo: Femenino   
+* Edad: 27 años  
+* Ubicación en la que vive: Ciudad de Arequipa
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:  
+* Duración: 2:53
+
+Resumen:
+
+Para Nicole, …
+
+\*foto\*
+
+Entrevistado N°3: Luis Alberto Paredes
+
+* Sexo: Masculino  
+* Edad: 24  
+* Ubicación en la que vive: San Martín de Porres
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:  
+* Duración:
+
+Para Luis Alberto, …  
+\*foto\*
+
+**Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
+
+Entrevistada N°1: Mario André Cacho Seminario
+
+* Sexo: Masculino  
+* Edad: 22  
+* Ubicación en la que vive: Lima, Surco
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:   
+* Duración: 
+
+Resumen:  
+Para Mario, …
+
+\*foto\*
+
+Entrevistado N°2: Sebastián De Las Casas Latour
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Lima, Surco
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:   
+* Duración: 
+
+Resumen:
+
+Para Sebastián, …
+
+\*foto\*
+
+Entrevistado N°3: Diego Alarcon Rivas
+
+* Sexo: Masculino  
+* Edad: 22  
+* Ubicación en la que vive: San Juan de Lurigancho
+
+Acerca de la entrevista:
+
+* Instante en el que inicia:   
+* Duración: 
+
+Resumen:
+
+Para Diego, …
+
+\*foto\*
+
+
 # Conclusiones
 ## Conclusiones y recomendaciones.
 
