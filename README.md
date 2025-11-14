@@ -2030,7 +2030,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Al momento de presionar los botones de “Learn More” dentro de la sección de “Plans”, los botones en la parte inferior no indican a qué página de los planes te van a llevar, lo cual nos obliga a presionar cada uno de ellos hasta encontrar el plan que nos interesa.*
 
-*![][image88]*
+![imgs/Problema1.png](imgs/Problema1.png)
 
 *Recomendación:*  
 *Realizar un cambio de nombre a cada botón para que indique a qué página del plan llevará al usuario.*
@@ -2043,7 +2043,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Las páginas de los planes disponibles para SafeWork no tienen un botón o interruptor para cambiar el idioma disponible a diferencia del resto del Landing Page.*
 
-*![][image89]*
+![imgs/Problema2.png](imgs/Problema2.png)
 
 *Recomendación:*  
 *Colocar un botón o interruptor para cambiar el idioma de la página en la que se encuentra el usuario de manera similar al resto del Landing Page.*
@@ -2056,7 +2056,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Existe un error ortográfico notable en la página del “Standard Plan” el cual indica que existe un plan “Standart”, cosa la cual no existe como plan en SafeWork.*
 
-*![][image90]*
+![imgs/Problema3.png](imgs/Problema3.png)
 
 *Recomendación:*  
 *Corregir el error ortográfico en la palabra “Standart” para que muestre la palabra correcta “Standard”.*
@@ -2069,7 +2069,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Al ingresar a la aplicación web de SafeWork, en la sección de “List of Incidents” dentro de “Incidents”, el botón o interruptor para cambiar el idioma no funciona correctamente  a diferencia del resto de la aplicación web.*
 
-*![][image91]*
+![imgs/Problema4.png](imgs/Problema4.png)
 
 *Recomendación:*  
 *Implementar la funcionalidad del cambio de idioma para la sección de “List of Incidents”.*
@@ -2082,7 +2082,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Al ingresar a la sección de “Tablero de asignaciones” en “Asignaciones”, al verificar un indecente abierto, los colores elegidos no contrastan bien con la sección de “Fecha Límite”, el cual no le permite al usuario poder leer bien esa sección.*
 
-*![][image92]*
+![imgs/Problema5.png](imgs/Problema5.png)
 
 *Recomendación:*  
 *Cambiar el color de la fuente elegida para la sección de Asignaciones o modificar el color del fondo para tener un mejor contraste.*
@@ -2095,7 +2095,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Al presionar los botones de “Edit Information”, “Log Out” y “Delete Account” dentro de la sección de “Profile”, éstos no realizan ninguna acción por lo que el usuario no puede editar su información, cerrar sesión o eliminar su cuenta.*
 
-*![][image93]*
+![imgs/Problema6.png](imgs/Problema6.png)
 
 *Recomendación:*  
 *Implementar la funcionalidad de cada uno de los botones.*
@@ -2108,7 +2108,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *Al presionar los botones de ““+ Create Report” y “Upload Report” dentro de la sección de “List of Incidents”, éstos no realizan ninguna acción por lo que el usuario no puede crear o subir un reporte.*
 
-*![][image94]*
+![imgs/Problema7.png](imgs/Problema7.png)
 
 *Recomendación:*  
 *Implementar la funcionalidad de cada uno de los botones.*
@@ -2121,7 +2121,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 *Problema:*  
 *La paleta de colores presente dentro de  la sección de “Notificaciones” no es consistente con el resto de pantallas en la aplicación. Lo que genera un choque y contraste al navegar en la aplicación.*
 
-*![][image95]*
+![imgs/Problema8.png](imgs/Problema8.png)
 
 *Recomendación:*  
 *Ajustar la paleta de colores para que la pantalla presente de un contraste similar a la del resto.*
