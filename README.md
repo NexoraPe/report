@@ -1755,7 +1755,7 @@ Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 | **Sprint Goal & User Stories** |  |
 | Sprint 3 Goal | Para el Sprint 3, buscamos desarrollar y desplegar el Backend de nuestro proyecto, conectándolo además con el Frontend de manera que estos dos estén sincronizados. |
 | Sprint 3 Velocity | \# |
-| Sum of Story Points | \# |
+| Sum of Story Points | 34 |
 
 #####
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
@@ -1773,28 +1773,37 @@ Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 | :---: | ----- | :---: | ----- | ----- | :---: | :---: | :---: |
 | **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| **US08** | Revisión de contraseña al registrarse | **T01** | Revisión de contraseña al registrarse | Validación de caracteres válidos al crear una contraseña | **4** | Vidal Castro, Miguel Angel | Done |
+| **US08** | Sistema de validación de cantidad de caracteres | **T02** | Sistema de validación de cantidad de caracteres | Desarrollar el sistema de validación de cantidad mínima de caracteres | **3** | Vidal Castro, Miguel Angel | Done |
+| **US13** | Asignación de Responsables | **T03** | Asignación de Responsables | Sistema de asignación de responsables al crear un reporte | **6** | Cacho Seminario, Diego Alonso | Done |
+| **US13** | Asignación controlada de responsables | **T04** | Asignación controlada de responsables | Desarrollar un módulo dinámico que permita gestionar (crear, editar, eliminar) las preguntas y respuestas desde el panel de administración. | **5** | Cacho Seminario, Diego Alonso | Done |
+| **US17** | Preguntas Frecuentes | **T05** | Preguntas Frecuentes | Sección de preguntas frecuentes en el Landing Page | **2** | Castro Sanchez, Amir Gabriel | Done |
+| **US17** | Administración de preguntas frecuentes | **T06** | Administración de preguntas frecuentes | Desarrollar un módulo que permita verificar muchas preguntas frecuentes | **4** | Castro Sanchez, Amir Gabriel | Done |
+| **US21** | Notificaciones en Tiempo Real | **T07** | Notificaciones en Tiempo Real | Notificaciones al subir un reporte en tiempo real | **3** | Tantaleán Mesta, Guillermo Fabián | Done |
+| **US21** | Recepción inmediata de notificaciones | **T08** | Recepción inmediata de notificaciones | Integrar un sistema de mensajería push (WebSockets o Firebase) que actualice al usuario sin necesidad de refrescar la página. | **6** | Tantaleán Mesta, Guillermo Fabián | To-do |
+| **US27** | Visualizar Detalles del reporte | **T09** | Visualizar Detalles del reporte | Visualizar los detalles respecto a los reportes que se encuentran activos | **4** | Vidal Castro, Miguel Angel | Done |
+| **US27** | Acceso completo a reportes | **T10** | Acceso completo a reportes | Construir una vista detallada con filtros, exportación a PDF/Excel y opción de compartir el reporte. | **3** | Vidal Castro, Miguel Angel | To-do |
+| **US31** | Navegación desde cualquier dispositivo | **T11** | Navegación desde cualquier dispositivo | Navegación con implementación de elementos responsive | **3** | Cacho Seminario, Diego Alonso | Done |
+| **US31** | Compatibilidad en múltiples dispositivos | **T12** | Compatibilidad en múltiples dispositivos | Garantizar diseño responsive con pruebas en en diversas resoluciones, optimizando la experiencia de usuario. | **2** | Cacho Seminario, Diego Alonso | Done |
+| **US38** | Notificación de Nueva Tarea | **T13** | Notificación de Nueva Tarea | Notificaciones al subir un reporte | **4** | Castro Sanchez, Amir Gabriel | Done |
+| **US38** | Aviso instantáneo de nuevas tareas | **T14** | Aviso instantáneo de nuevas tareas | Configurar alertas automáticas vía correo electrónico y dentro de la aplicación cuando se cree una nueva tarea asignada. | **5** | Castro Sanchez, Amir Gabriel | To-do |
+| **US39** | Filtro por estado de casos | **T15** | Filtro por estado de casos | Funcionalidad de filtrar los casos de incidentes por estado | **3** | Tantaleán Mesta, Guillermo Fabián | Done |
+| **US39** | Clasificación de casos por estado | **T16** | Clasificación de casos por estado | Implementar un sistema de filtrado avanzado con estados predefinidos (pendiente, en progreso, cerrado) y búsqueda combinada. | **4** | Tantaleán Mesta, Guillermo Fabián | Done |
+| **US41** | Botones CTA principales en la Landing Page | **T17** | Botones CTA principales en la Landing Page | Desarrollo de Botones CTA dentro del Landing Page | **2** | Vidal Castro, Miguel Angel | Done |
+| **US41** | Mejora de llamadas a la acción | **T18** | Mejora de llamadas a la acción | Diseñar botones con estilos consistentes, pruebas A/B para medir efectividad y redirección a las secciones clave (registro, contacto, demo). | **2** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T19** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
+| **\-** | **\-** | **T20** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-| :---: | :---: | :---: | ----- | ----- | :---: |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| :---: | :---: | :---: | ----- | :---: | :---: |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | develop | 1e0a871 | docs: add Evaluations according to heuristics pictures | \- | 13/11/25 |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | master | aecaa1e | feat: add role validation in IncidentCommandServiceImpl for assignment handling | \- | 12/11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | feature/chapter4 | da3b1d0 | docs(chapter4): update Auth Service Component Diagram description | \- | 29/10/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | feature/chapter4 | c9a4e8a | fix: Replace images chapter4 | \- | 23/10/25 |
+| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | feature/incidents | e684cab | feat(incidents): add new-incidents.ts | \- | 03/11/25 |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | master | d54dffb | feat: temporarily disable authentication for faster development | \- | 12/11/25 |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review. 
 
@@ -1877,7 +1886,7 @@ Preguntas principales (Frontend):
 
 #### 5.3.2. Registro de Entrevistas.
 
-Video completo con las entrevistas: link
+Video completo con las entrevistas: **FALTA SUBIR**
 
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
 
@@ -1930,7 +1939,7 @@ Para Luis Alberto, …
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
 
-Entrevistada N°1: Mario André Cacho Seminario
+Entrevistado N°1: Mario André Cacho Seminario
 
 * Sexo: Masculino  
 * Edad: 22  
@@ -1939,12 +1948,12 @@ Entrevistada N°1: Mario André Cacho Seminario
 Acerca de la entrevista:
 
 * Instante en el que inicia:   
-* Duración: 
+* Duración: 7:11
 
 Resumen:  
-Para Mario, …
+Para Mario, la aplicación es atractiva, funcional y eficiente. Cumple con sus expectativas y le considera que, en caso tenga un incidente durante sus horas de trabajo, le encantaría utilizar la aplicación y que su equipo la emplee con regularidad para acelerar los procesos de incidentes.
 
-\*foto\*
+![imgs/Seg2Entrevista1-VI.png](imgs/Seg2Entrevista1-VI.png)
 
 Entrevistado N°2: Sebastián De Las Casas Latour
 
@@ -1955,13 +1964,13 @@ Entrevistado N°2: Sebastián De Las Casas Latour
 Acerca de la entrevista:
 
 * Instante en el que inicia:   
-* Duración: 
+* Duración: 7:13
 
 Resumen:
 
-Para Sebastián, …
+Para Sebastián, la aplicación resulta visualmente agradable, práctica y eficaz. Satisface las expectativas del usuario y este considera que, si llegara a enfrentar un incidente en su jornada laboral, le gustaría recurrir a la aplicación y que su equipo la utilice de manera constante para agilizar la gestión de dichos eventos.
 
-\*foto\*
+![imgs/Seg2Entrevista2-VI.png](imgs/Seg2Entrevista2-VI.png)
 
 Entrevistado N°3: Diego Alarcon Rivas
 
@@ -2150,13 +2159,14 @@ Este avance marca una etapa clave en la consolidación del proyecto, pasando de 
 
 - TB2:
 
+Para la entrega del TB2, se incorporo el Sprint 3, lo que lleva a **SafeWork** mas cerca de su estapa final, aqui se implementaron mejoras de entregas anteriores y funcionalidades nuevas. Se realizo la primera versión del Backend de proyecto. Además, se incluyeron secciones que nos permitieron conocer mas acerca de las necesidades del usuario como las Entrevistas de Validación y las Evaluaciones según heurísticas.
 
 - TF:
 
 ## **Video About-the-Team.**  
 La presente sección incluye el video del equipo que resume nuestro avance y trabajo a lo largo del proyecto.
 
-LINK: 
+LINK: **FALTA SUBIR**
 
 # Bibliografía
 
