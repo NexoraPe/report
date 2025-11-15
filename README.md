@@ -1347,17 +1347,17 @@ Este nivel refleja la visión global del sistema y cómo los usuarios acceden a 
 
 El diagrama de contenedores descompone **SafeWork** en sus partes principales:  
 - **Landing Page** como punto de entrada.  
-- **Web App** para la interacción de usuarios.  
-- **API REST** que centraliza la lógica de negocio.  
-- Los 5 **Bounded Contexts**: *Incidents, Assignment, Notification, Analytics y Profile*.  
+- **Web App** para la interacción de usuarios.
+- **Backend API** que centraliza la lógica de negocio y gestiona la comunicación con otros sistemas.
+- **Database** para el almacenamiento de información.
+- Integración con un **Notification Gateway** externo para el envío de notificaciones por SMS y correo electrónico.  
 
 ![imgs](./imgs/containterdiagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
 #### 1. Incident Service 
-Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre.  
-Incluye la máquina de estados, el agregado de dominio y el repositorio para persistencia. 
+Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre, incluyendo la máquina de estados, el agregado de dominio y el repositorio para persistencia.
 
 ![imgs](./imgs/component1.png)
 
@@ -1380,8 +1380,7 @@ Se apoya en un pipeline de eventos y un almacén analítico.
 ![imgs](./imgs/component4.png)
 
 #### 5. Auth Service 
-Encargado de la autenticación y autorización de usuarios.  
-Implementa SSO, OAuth2 y JWT para validar identidad y permisos de acceso.
+Encargado de la autenticación y autorización de usuarios. Validando identidad y permisos antes de acceder a otros servicios.
 
 ![imgs](./imgs/component5.png)
 
