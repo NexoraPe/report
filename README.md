@@ -2179,6 +2179,6 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQAzoY-bmuwBSp9-8l_nLt5sAfa8ZZfpB4v3ezAbo7nrMi8?e=oWLtZ6)
 
-- Enlace para acceder al [About the Team](https://www.canva.com/design/DAG4nbdTfTg/iF_USOx_XniEgRSukNk9Mg/view?utm_content=DAG4nbdTfTg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h929b67e93d)
+- Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
 
 
