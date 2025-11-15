@@ -2195,6 +2195,8 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [repositorio de landing page](https://github.com/NexoraPe/Landing-Page)
 
-- Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/)
+- Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/front-safework)
+
+- Enlace para acceder al [repositorio del backend](https://github.com/NexoraPe/backend-safework)
 
 
