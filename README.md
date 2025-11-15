@@ -87,11 +87,18 @@
 
 
 **TP:**
+
 ![imgs/img.png](imgs/img8.png)
 
 
 **TB2:**
-![imgs/......png](imgs/......png)
+
+Reporte
+![imgs/ReportInsightsTB2.png](imgs/ReportInsightsTB2.png)
+
+Frontend
+![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
+
 
 **TF:**
 ![imgs/......png](imgs/......png)
@@ -1821,8 +1828,11 @@ Link del Backend: link Backend desplegado
 ##### 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
+Reporte
+![imgs/ReportInsightsTB2.png](imgs/ReportInsightsTB2.png)
 
-imgs github con gitflow
+Frontend
+![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
 
 ## **5.3. Validation Interviews**  
 ### 5.3.1. Diseño de Entrevistas  
