@@ -87,11 +87,18 @@
 
 
 **TP:**
+
 ![imgs/img.png](imgs/img8.png)
 
 
 **TB2:**
-![imgs/......png](imgs/......png)
+
+Reporte
+![imgs/ReportInsightsTB2.png](imgs/ReportInsightsTB2.png)
+
+Frontend
+![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
+
 
 **TF:**
 ![imgs/......png](imgs/......png)
@@ -1820,8 +1827,11 @@ Link del Backend: link Backend desplegado
 ##### 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
+Reporte
+![imgs/ReportInsightsTB2.png](imgs/ReportInsightsTB2.png)
 
-imgs github con gitflow
+Frontend
+![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
 
 ## **5.3. Validation Interviews**  
 ### 5.3.1. Diseño de Entrevistas  
@@ -1885,7 +1895,8 @@ Preguntas principales (Frontend):
 
 #### 5.3.2. Registro de Entrevistas.
 
-Video completo con las entrevistas: **FALTA SUBIR**
+Video completo con las entrevistas: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQAzoY-bmuwBSp9-8l_nLt5sAfa8ZZfpB4v3ezAbo7nrMi8?e=oWLtZ6)
+
 
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
 
@@ -1897,8 +1908,8 @@ Entrevistado N°1: Fabian Alejandro Oliva López
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:  
-* Duración: 3:24
+* Instante en el que inicia: 0:10 
+* Duración:
 
 Resumen:
 
@@ -1914,27 +1925,13 @@ Entrevistado N°2: Nicole Requena Saiwa
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:  
-* Duración: 2:53
+* Instante en el que inicia: 4:20 
+* Duración:
 
 Resumen:
 
 Para Nicole, la interfaz de SafeWork le resultó intuitiva y fácil de navegar. Aunque no tiene mucha experiencia previa en el manejo de plataformas similares, encontró que la información presentada en la landing page fue clara y útil. Mencionó que el diseño del sitio es atractivo, lo que generó una buena primera impresión, y considera que la plataforma podría ser una herramienta eficaz para mejorar la gestión de accidentes e incidentes laborales.
 
-\*foto\*
-
-Entrevistado N°3: Luis Alberto Paredes
-
-* Sexo: Masculino  
-* Edad: 24  
-* Ubicación en la que vive: San Martín de Porres
-
-Acerca de la entrevista:
-
-* Instante en el que inicia:  
-* Duración:
-
-Para Luis Alberto, …  
 \*foto\*
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
@@ -1947,7 +1944,7 @@ Entrevistado N°1: Mario André Cacho Seminario
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:   
+* Instante en el que inicia: 9:24  
 * Duración: 7:11
 
 Resumen:  
@@ -1963,7 +1960,7 @@ Entrevistado N°2: Sebastián De Las Casas Latour
 
 Acerca de la entrevista:
 
-* Instante en el que inicia:   
+* Instante en el que inicia: 16:41  
 * Duración: 7:13
 
 Resumen:
@@ -1971,23 +1968,6 @@ Resumen:
 Para Sebastián, la aplicación resulta visualmente agradable, práctica y eficaz. Satisface las expectativas del usuario y este considera que, si llegara a enfrentar un incidente en su jornada laboral, le gustaría recurrir a la aplicación y que su equipo la utilice de manera constante para agilizar la gestión de dichos eventos.
 
 ![imgs/Seg2Entrevista2-VI.png](imgs/Seg2Entrevista2-VI.png)
-
-Entrevistado N°3: Diego Alarcon Rivas
-
-* Sexo: Masculino  
-* Edad: 22  
-* Ubicación en la que vive: San Juan de Lurigancho
-
-Acerca de la entrevista:
-
-* Instante en el que inicia:   
-* Duración: 
-
-Resumen:
-
-Para Diego, …
-
-\*foto\*
 
 #### 5.3.3. Evaluaciones según heurísticas.  
 **SITE o APP A EVALUAR:** SafeWork
@@ -2198,5 +2178,9 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 - Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/front-safework)
 
 - Enlace para acceder al [repositorio del backend](https://github.com/NexoraPe/backend-safework)
+
+- Enlace para acceder al [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQAzoY-bmuwBSp9-8l_nLt5sAfa8ZZfpB4v3ezAbo7nrMi8?e=oWLtZ6)
+
+- Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
 
 
