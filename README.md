@@ -1354,17 +1354,17 @@ Este nivel refleja la visión global del sistema y cómo los usuarios acceden a 
 
 El diagrama de contenedores descompone **SafeWork** en sus partes principales:  
 - **Landing Page** como punto de entrada.  
-- **Web App** para la interacción de usuarios.  
-- **API REST** que centraliza la lógica de negocio.  
-- Los 5 **Bounded Contexts**: *Incidents, Assignment, Notification, Analytics y Profile*.  
+- **Web App** para la interacción de usuarios.
+- **Backend API** que centraliza la lógica de negocio y gestiona la comunicación con otros sistemas.
+- **Database** para el almacenamiento de información.
+- Integración con un **Notification Gateway** externo para el envío de notificaciones por SMS y correo electrónico.  
 
 ![imgs](./imgs/containterdiagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
 #### 1. Incident Service 
-Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre.  
-Incluye la máquina de estados, el agregado de dominio y el repositorio para persistencia. 
+Gestiona el ciclo de vida de los incidentes, desde su creación hasta su cierre, incluyendo la máquina de estados, el agregado de dominio y el repositorio para persistencia.
 
 ![imgs](./imgs/component1.png)
 
@@ -1387,8 +1387,7 @@ Se apoya en un pipeline de eventos y un almacén analítico.
 ![imgs](./imgs/component4.png)
 
 #### 5. Auth Service 
-Encargado de la autenticación y autorización de usuarios.  
-Implementa SSO, OAuth2 y JWT para validar identidad y permisos de acceso.
+Encargado de la autenticación y autorización de usuarios. Validando identidad y permisos antes de acceder a otros servicios.
 
 ![imgs](./imgs/component5.png)
 
@@ -1901,11 +1900,11 @@ Video completo con las entrevistas: [Validation Interviews](https://upcedupe-my.
 
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
 
-Entrevistado N°1:
+Entrevistado N°1: Fabian Alejandro Oliva López
 
-* Sexo:
-* Edad: 
-* Ubicación en la que vive:
+* Sexo: Masculino  
+* Edad: 19 años  
+* Ubicación en la que vive: Lima
 
 Acerca de la entrevista:
 
@@ -1914,7 +1913,8 @@ Acerca de la entrevista:
 
 Resumen:
 
-Para ######, …..  
+Para Fabián, le parece muy útil la integración de funcionalidades como la visualización del estado del caso y la línea de tiempo, ya que le permite seguir el progreso de los incidentes de forma más clara. Además, aprecia la facilidad para revisar los reportes y el flujo de trabajo bien estructurado, que coincide con sus necesidades diarias. Considera que SafeWork podría optimizar su manera de gestionar los incidentes, aunque sugiere mejorar la personalización de las notificaciones y agregar una función de análisis de tendencias para poder prever posibles riesgos. Tras probar el prototipo, se muestra bastante inclinado a utilizar la plataforma en su entorno laboral real, ya que le ofrece una manera más eficiente y organizada de llevar a cabo su labor.
+
 \*foto\*
 
 Entrevistado N°2: Nicole Requena Saiwa
@@ -1930,7 +1930,7 @@ Acerca de la entrevista:
 
 Resumen:
 
-Para Nicole, …
+Para Nicole, la interfaz de SafeWork le resultó intuitiva y fácil de navegar. Aunque no tiene mucha experiencia previa en el manejo de plataformas similares, encontró que la información presentada en la landing page fue clara y útil. Mencionó que el diseño del sitio es atractivo, lo que generó una buena primera impresión, y considera que la plataforma podría ser una herramienta eficaz para mejorar la gestión de accidentes e incidentes laborales.
 
 \*foto\*
 
@@ -2175,7 +2175,9 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [repositorio de landing page](https://github.com/NexoraPe/Landing-Page)
 
-- Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/)
+- Enlace para acceder al [repositorio del frontend](https://github.com/NexoraPe/front-safework)
+
+- Enlace para acceder al [repositorio del backend](https://github.com/NexoraPe/backend-safework)
 
 - Enlace para acceder al [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQAzoY-bmuwBSp9-8l_nLt5sAfa8ZZfpB4v3ezAbo7nrMi8?e=oWLtZ6)
 
