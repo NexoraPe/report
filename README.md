@@ -1889,11 +1889,11 @@ Video completo con las entrevistas: **FALTA SUBIR**
 
 **Segmento objetivo \#1: Personal encargado de la tramitación de accidentes e incidentes laborales** 
 
-Entrevistado N°1: Miguel Angel Saucedo Zambrano
+Entrevistado N°1: Fabian Alejandro Oliva López
 
 * Sexo: Masculino  
-* Edad: 34 años  
-* Ubicación en la que vive: Santiago de Chile
+* Edad: 19 años  
+* Ubicación en la que vive: Lima
 
 Acerca de la entrevista:
 
@@ -1902,7 +1902,8 @@ Acerca de la entrevista:
 
 Resumen:
 
-Para Miguel, …..  
+Para Fabián, le parece muy útil la integración de funcionalidades como la visualización del estado del caso y la línea de tiempo, ya que le permite seguir el progreso de los incidentes de forma más clara. Además, aprecia la facilidad para revisar los reportes y el flujo de trabajo bien estructurado, que coincide con sus necesidades diarias. Considera que SafeWork podría optimizar su manera de gestionar los incidentes, aunque sugiere mejorar la personalización de las notificaciones y agregar una función de análisis de tendencias para poder prever posibles riesgos. Tras probar el prototipo, se muestra bastante inclinado a utilizar la plataforma en su entorno laboral real, ya que le ofrece una manera más eficiente y organizada de llevar a cabo su labor.
+
 \*foto\*
 
 Entrevistado N°2: Nicole Requena Saiwa
@@ -1918,7 +1919,7 @@ Acerca de la entrevista:
 
 Resumen:
 
-Para Nicole, …
+Para Nicole, la interfaz de SafeWork le resultó intuitiva y fácil de navegar. Aunque no tiene mucha experiencia previa en el manejo de plataformas similares, encontró que la información presentada en la landing page fue clara y útil. Mencionó que el diseño del sitio es atractivo, lo que generó una buena primera impresión, y considera que la plataforma podría ser una herramienta eficaz para mejorar la gestión de accidentes e incidentes laborales.
 
 \*foto\*
 
