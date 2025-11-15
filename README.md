@@ -75,6 +75,7 @@
 | 1.0 | 26/08/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
 | 1.1 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
 | 2.0 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (enlaces, idioma de artefactos, etc), se agregó la planificación y desarrollo del sprint 2, se desplegó una nueva versión de la landing page y se desplegó una primera versión del frontend web app.|
+| 3.0 | 14/11/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (idioma y formato de tablas), se agregó la planificación y desarrollo del sprint 3, se desplegó una nueva versión del frontend y se desplegó una primera versión del backend.|
 
 ---
 
