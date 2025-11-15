@@ -1910,13 +1910,13 @@ Entrevistado N°1: Fabian Alejandro Oliva López
 Acerca de la entrevista:
 
 * Instante en el que inicia: 0:10 
-* Duración:
+* Duración: 4:05
 
 Resumen:
 
 Para Fabián, le parece muy útil la integración de funcionalidades como la visualización del estado del caso y la línea de tiempo, ya que le permite seguir el progreso de los incidentes de forma más clara. Además, aprecia la facilidad para revisar los reportes y el flujo de trabajo bien estructurado, que coincide con sus necesidades diarias. Considera que SafeWork podría optimizar su manera de gestionar los incidentes, aunque sugiere mejorar la personalización de las notificaciones y agregar una función de análisis de tendencias para poder prever posibles riesgos. Tras probar el prototipo, se muestra bastante inclinado a utilizar la plataforma en su entorno laboral real, ya que le ofrece una manera más eficiente y organizada de llevar a cabo su labor.
 
-\*foto\*
+![imgs/Seg1Entrevista1-VI.png](imgs/Seg1Entrevista1-VI.png)
 
 Entrevistado N°2: Nicole Requena Saiwa
 
@@ -1927,13 +1927,13 @@ Entrevistado N°2: Nicole Requena Saiwa
 Acerca de la entrevista:
 
 * Instante en el que inicia: 4:20 
-* Duración:
+* Duración: 4:58
 
 Resumen:
 
 Para Nicole, la interfaz de SafeWork le resultó intuitiva y fácil de navegar. Aunque no tiene mucha experiencia previa en el manejo de plataformas similares, encontró que la información presentada en la landing page fue clara y útil. Mencionó que el diseño del sitio es atractivo, lo que generó una buena primera impresión, y considera que la plataforma podría ser una herramienta eficaz para mejorar la gestión de accidentes e incidentes laborales.
 
-\*foto\*
+![imgs/Seg1Entrevista2-VI.png](imgs/Seg1Entrevista2-VI.png)
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
 
