@@ -60,7 +60,7 @@ COURSE PROJECT
 </div>
 
 <p align="center">
-    <strong>Octubre, 2025</strong>
+    <strong>Noviembre, 2025</strong>
 </p>
 
 ---
@@ -100,6 +100,14 @@ Frontend
 
 
 **TF:**
+
+Reporte
+![imgs/......png](imgs/......png)
+
+Frontend
+![imgs/......png](imgs/......png)
+
+Backend
 ![imgs/......png](imgs/......png)
 
 ---
