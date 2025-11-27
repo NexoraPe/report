@@ -53,10 +53,6 @@ COURSE PROJECT
             <td>u202310680</td>
         </tr>
         <tr>
-            <td>Tantaleán Mesta, Guillermo Fabián</td>
-            <td>u202311958</td>
-        </tr>
-        <tr>
             <td>Vidal Castro, Miguel Angel</td>
             <td>u202314186</td>
         </tr>
@@ -77,6 +73,7 @@ COURSE PROJECT
 | 1.1 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
 | 2.0 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (enlaces, idioma de artefactos, etc), se agregó la planificación y desarrollo del sprint 2, se desplegó una nueva versión de la landing page y se desplegó una primera versión del frontend web app.|
 | 3.0 | 14/11/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (idioma y formato de tablas), se agregó la planificación y desarrollo del sprint 3, se desplegó una nueva versión del frontend y se desplegó una primera versión del backend.|
+| 4.0 | 30/11/2025 | C. Diego, C. Amir, V. Miguel | Se corrigieron detalles de la versión anterior (despliegue completo del Backend), se agregó la planificación y desarrollo del sprint 4, se desplegó la ultima versión del frontend, se integro el backend con el frontend y se realizaron los videos del About The Product. |
 
 ---
 
@@ -214,6 +211,15 @@ Frontend
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1840,6 +1846,102 @@ Reporte
 Frontend
 ![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
 
+#### **5.2.4. Sprint 4**
+##### 5.2.4.1. Sprint Planning 4\.
+
+| Sprint \# | Sprint 4 |
+| :---: | ----- |
+| **Sprint Planning Background** |  |
+| Date | 2025-11-22 |
+| Time | 5:30 PM |
+| Location | Modalidad remota |
+| Prepared By | Equipo NexoraPE |
+| Attendees (to planning meeting) | Todos los miembros del equipo |
+| Sprint 4 \- 1 Review Summary | Para el Sprint anterior, se desarrolló el Backend del proyecto, sin embargo, se tuvieron complicaciones al realizar el despliegue. |
+| Sprint 4 \- 1 Retrospective Summary | Respecto al Sprint anterior, logramos actualizar diagramas y pulir el documento agregando diversas secciones relacionadas con el Backend. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 4 Goal | Para el Sprint 4, buscamos finalizar con el despliegue del Backend, conectándolo al Frontend para completar con los requerimientos de nuestra aplicación. |
+| Sprint 4 Velocity | \# |
+| Sum of Story Points | \#\# |
+
+##### 
+
+##### 5.2.4.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (L/C) | Backend Development (L/C) | Quality Control (L/C) | Documentation (L/C) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | C | C | C | L |
+| Vidal Castro, Miguel Angel | Gossk | L | L | C | C |
+| Diego Alonso, Cacho Seminario | Memesitos | C | C | L | L |
+
+##### 5.2.4.3. Sprint Backlog 4\.
+
+| Sprint \# | Sprint 4 |  |  |  |  |  |  |
+| :---: | ----- | :---: | ----- | ----- | :---: | :---: | :---: |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| **US\#\#** |  | **T01** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T02** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T03** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T04** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T05** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T06** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T07** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T08** |  |  |  | Vidal Castro, Miguel Angel | To-do |
+| **US\#\#** |  | **T09** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T10** |  |  |  | Cacho Seminario, Diego Alonso | To-do |
+| **US\#\#** |  | **T11** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T12** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T13** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T14** |  |  |  | Vidal Castro, Miguel Angel | To-do |
+| **US\#\#** |  | **T15** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T16** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T17** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T18** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T\#\#** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
+| **\-** | **\-** | **T\#\#** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | ----- | :---: | :---: |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2630cd9 | feat: Enchance token generation with new paremeters and refactored get All incidents endpoint. | \- Incidents endpoint now use the token, and do the filter according to the user session role and company id from the token, if its not an admin, then the getall endpoint its going to just get all incidents from the company, if its admin then all the incidents globally | 26/11/25 |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2f35c3d  | feat: Enchanced company seeding and added new company query. | \- | 26/11/25 |
+| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master | dbe628d | ci: add Azure Static Web Apps workflow file | \- | 09/10/25 |
+| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master |  |  | \- | /11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
+
+##### 5.2.4.5. Execution Evidence for Sprint Review. 
+
+Se evidencia el avance del Tercer Sprint por medio del siguiente link: link backend desplegado
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Se evidencia la documentación de los servicios empleados:  
+imgs
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Link del Backend: link Backend desplegado 
+
+##### 
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+* Reporte
+
+\*img\*
+
+* Frontend
+
+\*img\*
+
+* Backend
+
+\*img\*
+
+
 ## **5.3. Validation Interviews**  
 ### 5.3.1. Diseño de Entrevistas  
 Con el objetivo de recolectar información de nuestros usuarios se realizaron una serie de entrevistas para verificar el rendimiento del Landing Page y el Frontend.
@@ -2125,7 +2227,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 ## **5.4. Video About-the-Product.**  
 La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
 
-LINK: 
+Enlace para acceder al [About the Product](link)
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
@@ -2150,10 +2252,12 @@ Para la entrega del TB2, se incorporo el Sprint 3, lo que lleva a **SafeWork** m
 
 - TF:
 
+Como última entrega del proyecto, **SafeWork** logro convertirse en una aplicación robusta capaz de resolver con la problematica incial planteada. Finalizamos con el Backend y lo conectamos con el Frontend de nuestro producto, lo que nos permite a nosotros y a nuestros potenciales usuarios utilizar **SafeWork** como una herramienta de organización de accidentes durante el trabajo. En esta entrega, corregimos errores y problemas que tuvimos en la TB2 y TP, organizamos nuestras ideas y logramos desarrollar la versión mas cercana a nuestra visión original de **SafeWork**.
+
 ## **Video About-the-Team.**  
 La presente sección incluye el video del equipo que resume nuestro avance y trabajo a lo largo del proyecto.
 
-LINK: **FALTA SUBIR**
+Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
 
 # Bibliografía
 
