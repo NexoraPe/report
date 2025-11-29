@@ -1,4 +1,5 @@
-# COURSE PROJECT
+<p align="center">
+COURSE PROJECT
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -52,10 +53,6 @@
             <td>u202310680</td>
         </tr>
         <tr>
-            <td>Tantaleán Mesta, Guillermo Fabián</td>
-            <td>u202311958</td>
-        </tr>
-        <tr>
             <td>Vidal Castro, Miguel Angel</td>
             <td>u202314186</td>
         </tr>
@@ -63,7 +60,7 @@
 </div>
 
 <p align="center">
-    <strong>Octubre, 2025</strong>
+    <strong>Noviembre, 2025</strong>
 </p>
 
 ---
@@ -75,6 +72,8 @@
 | 1.0 | 26/08/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementó el diseño/esqueleto del informe sobre todas las secciones|
 | 1.1 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se implementaron diversos puntos del trabajo|
 | 2.0 | 20/09/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (enlaces, idioma de artefactos, etc), se agregó la planificación y desarrollo del sprint 2, se desplegó una nueva versión de la landing page y se desplegó una primera versión del frontend web app.|
+| 3.0 | 14/11/2025 | C. Diego, C. Amir, T. Guillermo, V. Miguel | Se corrigieron detalles de la versión anterior (idioma y formato de tablas), se agregó la planificación y desarrollo del sprint 3, se desplegó una nueva versión del frontend y se desplegó una primera versión del backend.|
+| 4.0 | 30/11/2025 | C. Diego, C. Amir, V. Miguel | Se corrigieron detalles de la versión anterior (despliegue completo del Backend), se agregó la planificación y desarrollo del sprint 4, se desplegó la ultima versión del frontend, se integro el backend con el frontend y se realizaron los videos del About The Product. |
 
 ---
 
@@ -101,6 +100,14 @@ Frontend
 
 
 **TF:**
+
+Reporte
+![imgs/......png](imgs/......png)
+
+Frontend
+![imgs/......png](imgs/......png)
+
+Backend
 ![imgs/......png](imgs/......png)
 
 ---
@@ -212,6 +219,15 @@ Frontend
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -245,6 +261,8 @@ del ABET – EAC - Student Outcome 3.
 |---------------------|---------------------|--------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br>_**TP**_<br>Realicé las correcciones necesarias de la entrega anterior (TB1) teniendo en cuenta el cambio en las secciones de los User Stories y Sprint 1, además para la entrega del TP aporté al punto general del Sprint 2 y también desarrollé el endpoint de "profile" de la aplicación web.<br>_**TB2**_<br>En esta entrega, realice mis entrevistas de validación para conocer mas a fondo respecto a nuestro producto y que errores se encontraban presentes, además realice las Evaluaciones según heurísticas con el objetivo de verificar ciertas secciones del proyecto y entender que podría ser un poblema a nuestros posibles usuarios. <br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios.<br>_**TP**_<br>Participé en la estructuración del front-end del MVP basado en el diseño en Figma, colaborando en la integración de las vistas con el backend. Además, documenté mi trabajo mediante commits y siguiendo la metodología GitFlow para mantener la trazabilidad del desarrollo.<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Comuniqué de manera clara y adaptable mis ideas a diferentes audiencias; cuando hablé con trabajadores utilicé un lenguaje sencillo y práctico para resaltar la facilidad de uso y el beneficio inmediato de reportar incidentes, mientras que con personal de seguridad y directivos empleé un discurso más técnico y estratégico, destacando la trazabilidad, la reducción de riesgos legales y la optimización de procesos.<br>_**TP**_<br>Expuse los avances del front-end basados en el diseño en Figma, explicando los criterios técnicos y de usabilidad a mis compañeros y al equipo docente. Utilicé un lenguaje accesible para explicar las decisiones de diseño, y uno más técnico al detallar la lógica y la integración con el backend.<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Expliqué las ideas del proyecto adaptando mi lenguaje según la audiencia; con los trabajadores fui más sencillo y práctico, mientras que con personal de seguridad resalté los beneficios de control y trazabilidad.<br>_**TP**_<br>Comuniqué los avances en la parte visual del MVP, enfocándome en mostrar cómo las pantallas del Figma se transformaron en componentes funcionales del front-end. Además, presenté la estructura de las ramas y el flujo de trabajo usado en GitFlow, resaltando su importancia para la coordinación del equipo. | **Conclusiones TB1:** <br>El grupo adaptó su forma de expresarse según la audiencia, usando un lenguaje sencillo con trabajadores y un enfoque más técnico con personal de seguridad y directivos, logrando transmitir el valor de SafeWork en distintos niveles.<br><br> **Conclusiones TP:** <br>Durante el trabajo parcial, el equipo fortaleció su capacidad de comunicación técnica al presentar los avances del MVP. Se logró explicar con claridad tanto los aspectos visuales (diseño e interfaz) como los técnicos (endpoints, integración y control de versiones), consolidando la comunicación efectiva dentro del equipo y frente al docente. <br><br> **Conclusiones TB2:** <br> Para la entrega de la TB2, el equipo realizo pruebas y entrevistas para la validación de la calidad del producto, se obtuvo información que nos permitió implementar cambios cruciales para la funcionalidad correcta de la aplicación. Además, se realizo la primera versión de nuestro Backend. <br><br> **Conclusiones TF:** <br> Como entrega final, el equipo realizo las correcciones de cada entrega pasada, se tomaron en cuenta las problemáticas con la aplicación y se realizó el despliegue de la versión final de la aplicación junto al backend y frontend del producto.<br>|
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>_**TP**_<br>Publiqué y subí correctamente los avances realizados para la entrega del Trabajo Parcial, además realicé mis grabaciones y diapositivas para el video de exposición y para la presentación en clase.<br>_**TB2**_<br>Trabaje y corregí diversas secciones de entregas anteriores, además publique los avances del TB2 en nuestro repositorio a tiempo para lograr verificar errores posibles. <br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios.<br>_**TP**_<br>Redacté los avances del Sprint 2 y la documentación de integración del front-end con base en el diseño de Figma, incluyendo las justificaciones de cada vista. También registré los commits en Git siguiendo la convención de mensajes clara y descriptiva.<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Redacté documentos, reportes y materiales con un estilo estructurado y profesional que adapté según la audiencia; utilicé mensajes breves y fáciles de comprender para trabajadores, y presenté información más detallada y analítica para el personal de seguridad y directivos.<br>_**TP**_<br>Elaboré documentación técnica sobre la estructura del proyecto, describiendo las funcionalidades del MVP y la relación entre las vistas implementadas. Además, redacté los reportes del avance de desarrollo siguiendo un formato técnico y profesional para la entrega del TP.<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Redacté mis aportes de manera clara y organizada, con mensajes simples para trabajadores y textos más técnicos para personal de seguridad y responsables de gestión.<br>_**TP**_<br>Describí por escrito las decisiones de diseño del front-end, explicando cómo se implementaron las pantallas del Figma y documentando los cambios mediante commits en GitFlow. Además, redacté los aportes en el informe del TP con una estructura coherente y profesional. | **Conclusiones TB1:** <br>El equipo redactó documentos claros y diferenciados para cada público, priorizando la simplicidad con trabajadores y la profundidad con personal de seguridad, lo que permitió comunicar con precisión y profesionalismo.<br><br> **Conclusiones TP:** <br>Durante el TP, se consolidó la comunicación escrita técnica mediante una documentación más estructurada del MVP, uso de GitFlow para trazabilidad y la integración de avances visuales y funcionales en el informe. El grupo demostró coherencia y claridad en la presentación escrita de su progreso. <br><br> **Conclusiones TB2:** <br> Para la TB2, se utilizó la herramienta de github y google docs para realizar el avance del documento principal. Como equipo, nos apoyamos en los diversos aspectos de la entrega teniendo en cuenta la rúbrica establecida en el aula virtual.<br><br> **Conclusiones TF:** <br> Se realizó la última versión del reporte final para la presente entrega, por medio de la herramienta de GitFlow, el equipo redacto y subio cada punto que se avanzo en la entrega.<br>|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. <br>_**TP**_<br>Realicé las correcciones necesarias de la entrega anterior (TB1) teniendo en cuenta el cambio en las secciones de los User Stories y Sprint 1, además para la entrega del TP aporté al punto general del Sprint 2 y también desarrollé el endpoint de "profile" de la aplicación web.<br>_**TB2**_<br>En esta entrega, realice mis entrevistas de validación para conocer mas a fondo respecto a nuestro producto y que errores se encontraban presentes, además realice las Evaluaciones según heurísticas con el objetivo de verificar ciertas secciones del proyecto y entender que podría ser un poblema a nuestros posibles usuarios.<br>_**TF**_<br> Finalmente para la entrega del TF, realice las correcciones indicadas del TB2, participe en la realización del Sprint 4 y desarrollo de calidad de código dentro del backend, además de aportar con la creación y organización de los documentos de envío. <br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios.<br>_**TP**_<br>Participé en la estructuración del front-end del MVP basado en el diseño en Figma, colaborando en la integración de las vistas con el backend. Además, documenté mi trabajo mediante commits y siguiendo la metodología GitFlow para mantener la trazabilidad del desarrollo.<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Comuniqué de manera clara y adaptable mis ideas a diferentes audiencias; cuando hablé con trabajadores utilicé un lenguaje sencillo y práctico para resaltar la facilidad de uso y el beneficio inmediato de reportar incidentes, mientras que con personal de seguridad y directivos empleé un discurso más técnico y estratégico, destacando la trazabilidad, la reducción de riesgos legales y la optimización de procesos.<br>_**TP**_<br>Expuse los avances del front-end basados en el diseño en Figma, explicando los criterios técnicos y de usabilidad a mis compañeros y al equipo docente. Utilicé un lenguaje accesible para explicar las decisiones de diseño, y uno más técnico al detallar la lógica y la integración con el backend.<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Expliqué las ideas del proyecto adaptando mi lenguaje según la audiencia; con los trabajadores fui más sencillo y práctico, mientras que con personal de seguridad resalté los beneficios de control y trazabilidad.<br>_**TP**_<br>Comuniqué los avances en la parte visual del MVP, enfocándome en mostrar cómo las pantallas del Figma se transformaron en componentes funcionales del front-end. Además, presenté la estructura de las ramas y el flujo de trabajo usado en GitFlow, resaltando su importancia para la coordinación del equipo. | **Conclusiones TB1:**<br>El grupo adaptó su forma de expresarse según la audiencia, usando un lenguaje sencillo con trabajadores y un enfoque más técnico con personal de seguridad y directivos, logrando transmitir el valor de SafeWork en distintos niveles.<br><br>**Conclusiones TP:**<br>Durante el trabajo parcial, el equipo fortaleció su capacidad de comunicación técnica al presentar los avances del MVP. Se logró explicar con claridad tanto los aspectos visuales (diseño e interfaz) como los técnicos (endpoints, integración y control de versiones), consolidando la comunicación efectiva dentro del equipo y frente al docente. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Cacho Seminario, Diego Alonso**<br>_**TB1**_<br>Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>_**TP**_<br>Publiqué y subí correctamente los avances realizados para la entrega del Trabajo Parcial, además realicé mis grabaciones y diapositivas para el video de exposición y para la presentación en clase.<br>_**TB2**_<br> Trabaje y corregí diversas secciones de entregas anteriores, además publique los avances del TB2 en nuestro repositorio a tiempo para lograr verificar errores posibles. <br>_**TF**_<br> Avance y uni los diferentes puntos relacionados al documento del reporte para la entrega final del curso, coordine y cree las presentaciones para los videos y exposiciones de clase y registré correctamente mis aportes en los commits de nuestro repositorio. <br><br>**Vidal Castro, Miguel Angel**<br>_**TB1**_<br>Investigué y obtuve información mediante las entrevistas para tener claro las funcionalidades que debería tener la aplicación y pueda cubrir las necesidades de los usuarios.<br>_**TP**_<br>Redacté los avances del Sprint 2 y la documentación de integración del front-end con base en el diseño de Figma, incluyendo las justificaciones de cada vista. También registré los commits en Git siguiendo la convención de mensajes clara y descriptiva.<br><br>**Tantaleán Mesta, Guillermo Fabián**<br>_**TB1**_<br>Redacté documentos, reportes y materiales con un estilo estructurado y profesional que adapté según la audiencia; utilicé mensajes breves y fáciles de comprender para trabajadores, y presenté información más detallada y analítica para el personal de seguridad y directivos.<br>_**TP**_<br>Elaboré documentación técnica sobre la estructura del proyecto, describiendo las funcionalidades del MVP y la relación entre las vistas implementadas. Además, redacté los reportes del avance de desarrollo siguiendo un formato técnico y profesional para la entrega del TP.<br><br>**Castro Sanchez, Amir Gabriel**<br>_**TB1**_<br>Redacté mis aportes de manera clara y organizada, con mensajes simples para trabajadores y textos más técnicos para personal de seguridad y responsables de gestión.<br>_**TP**_<br>Describí por escrito las decisiones de diseño del front-end, explicando cómo se implementaron las pantallas del Figma y documentando los cambios mediante commits en GitFlow. Además, redacté los aportes en el informe del TP con una estructura coherente y profesional. | **Conclusiones TB1:**<br>El equipo redactó documentos claros y diferenciados para cada público, priorizando la simplicidad con trabajadores y la profundidad con personal de seguridad, lo que permitió comunicar con precisión y profesionalismo.<br><br>**Conclusiones TP:**<br>Durante el TP, se consolidó la comunicación escrita técnica mediante una documentación más estructurada del MVP, uso de GitFlow para trazabilidad y la integración de avances visuales y funcionales en el informe. El grupo demostró coherencia y claridad en la presentación escrita de su progreso. |
 
 
 <div style="page-break-after: always;">
@@ -1813,16 +1831,21 @@ Link del Frontend: https://delightful-glacier-03ccd4010.1.azurestaticapps.net/
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review. 
 
-Se evidencia el avance del Tercer Sprint por medio del siguiente link: link backend desplegado
-
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Se evidencia la documentación de los servicios empleados:  
-imgs
+<figure>
+  <img src="imgs/imgBackend.png" alt="Backend overview" style="width:700px; max-width:100%; height:auto; display:block; margin:16px auto;">
+</figure>
+
+<figure>
+  <img src="imgs/img_1backedn.png" alt="Backend detalle" style="width:700px; max-width:100%; height:auto; display:block; margin:16px auto;">
+</figure>
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Link del Backend: link Backend desplegado 
+<figure>
+  <img src="imgs/img_2backend.png" alt="Backend despliegue" style="width:700px; max-width:100%; height:auto; display:block; margin:16px auto;">
+</figure>
 
 ##### 
 
@@ -1832,6 +1855,102 @@ Reporte
 
 Frontend
 ![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
+
+#### **5.2.4. Sprint 4**
+##### 5.2.4.1. Sprint Planning 4\.
+
+| Sprint \# | Sprint 4 |
+| :---: | ----- |
+| **Sprint Planning Background** |  |
+| Date | 2025-11-22 |
+| Time | 5:30 PM |
+| Location | Modalidad remota |
+| Prepared By | Equipo NexoraPE |
+| Attendees (to planning meeting) | Todos los miembros del equipo |
+| Sprint 4 \- 1 Review Summary | Para el Sprint anterior, se desarrolló el Backend del proyecto, sin embargo, se tuvieron complicaciones al realizar el despliegue. |
+| Sprint 4 \- 1 Retrospective Summary | Respecto al Sprint anterior, logramos actualizar diagramas y pulir el documento agregando diversas secciones relacionadas con el Backend. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 4 Goal | Para el Sprint 4, buscamos finalizar con el despliegue del Backend, conectándolo al Frontend para completar con los requerimientos de nuestra aplicación. |
+| Sprint 4 Velocity | \# |
+| Sum of Story Points | \#\# |
+
+##### 
+
+##### 5.2.4.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design (L/C) | Backend Development (L/C) | Quality Control (L/C) | Documentation (L/C) |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Castro Sánchez, Amir Gabriel | AmirbarrabajaLeon | C | C | C | L |
+| Vidal Castro, Miguel Angel | Gossk | L | L | C | C |
+| Diego Alonso, Cacho Seminario | Memesitos | C | C | L | L |
+
+##### 5.2.4.3. Sprint Backlog 4\.
+
+| Sprint \# | Sprint 4 |  |  |  |  |  |  |
+| :---: | ----- | :---: | ----- | ----- | :---: | :---: | :---: |
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| **US\#\#** |  | **T01** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T02** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T03** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T04** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T05** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T06** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T07** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T08** |  |  |  | Vidal Castro, Miguel Angel | To-do |
+| **US\#\#** |  | **T09** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T10** |  |  |  | Cacho Seminario, Diego Alonso | To-do |
+| **US\#\#** |  | **T11** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T12** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T13** |  |  |  | Vidal Castro, Miguel Angel | Done |
+| **US\#\#** |  | **T14** |  |  |  | Vidal Castro, Miguel Angel | To-do |
+| **US\#\#** |  | **T15** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T16** |  |  |  | Cacho Seminario, Diego Alonso | Done |
+| **US\#\#** |  | **T17** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US\#\#** |  | **T18** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T\#\#** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
+| **\-** | **\-** | **T\#\#** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | ----- | :---: | :---: |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2630cd9 | feat: Enchance token generation with new paremeters and refactored get All incidents endpoint. | \- Incidents endpoint now use the token, and do the filter according to the user session role and company id from the token, if its not an admin, then the getall endpoint its going to just get all incidents from the company, if its admin then all the incidents globally | 26/11/25 |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2f35c3d  | feat: Enchanced company seeding and added new company query. | \- | 26/11/25 |
+| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master | dbe628d | ci: add Azure Static Web Apps workflow file | \- | 09/10/25 |
+| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master |  |  | \- | /11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
+
+##### 5.2.4.5. Execution Evidence for Sprint Review. 
+
+Se evidencia el avance del Tercer Sprint por medio del siguiente link: link backend desplegado
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Se evidencia la documentación de los servicios empleados:  
+imgs
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Link del Backend: link Backend desplegado 
+
+##### 
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+* Reporte
+
+\*img\*
+
+* Frontend
+
+\*img\*
+
+* Backend
+
+\*img\*
+
 
 ## **5.3. Validation Interviews**  
 ### 5.3.1. Diseño de Entrevistas  
@@ -1909,13 +2028,13 @@ Entrevistado N°1: Fabian Alejandro Oliva López
 Acerca de la entrevista:
 
 * Instante en el que inicia: 0:10 
-* Duración:
+* Duración: 4:05
 
 Resumen:
 
 Para Fabián, le parece muy útil la integración de funcionalidades como la visualización del estado del caso y la línea de tiempo, ya que le permite seguir el progreso de los incidentes de forma más clara. Además, aprecia la facilidad para revisar los reportes y el flujo de trabajo bien estructurado, que coincide con sus necesidades diarias. Considera que SafeWork podría optimizar su manera de gestionar los incidentes, aunque sugiere mejorar la personalización de las notificaciones y agregar una función de análisis de tendencias para poder prever posibles riesgos. Tras probar el prototipo, se muestra bastante inclinado a utilizar la plataforma en su entorno laboral real, ya que le ofrece una manera más eficiente y organizada de llevar a cabo su labor.
 
-\*foto\*
+![imgs/Seg1Entrevista1-VI.png](imgs/Seg1Entrevista1-VI.png)
 
 Entrevistado N°2: Nicole Requena Saiwa
 
@@ -1926,13 +2045,13 @@ Entrevistado N°2: Nicole Requena Saiwa
 Acerca de la entrevista:
 
 * Instante en el que inicia: 4:20 
-* Duración:
+* Duración: 4:58
 
 Resumen:
 
 Para Nicole, la interfaz de SafeWork le resultó intuitiva y fácil de navegar. Aunque no tiene mucha experiencia previa en el manejo de plataformas similares, encontró que la información presentada en la landing page fue clara y útil. Mencionó que el diseño del sitio es atractivo, lo que generó una buena primera impresión, y considera que la plataforma podría ser una herramienta eficaz para mejorar la gestión de accidentes e incidentes laborales.
 
-\*foto\*
+![imgs/Seg1Entrevista2-VI.png](imgs/Seg1Entrevista2-VI.png)
 
 **Segmento objetivo \#2: Trabajadores afectados por accidentes o incidentes laborales**
 
@@ -2118,7 +2237,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 ## **5.4. Video About-the-Product.**  
 La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
 
-LINK: 
+Enlace para acceder al [About the Product](link)
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
@@ -2143,10 +2262,12 @@ Para la entrega del TB2, se incorporo el Sprint 3, lo que lleva a **SafeWork** m
 
 - TF:
 
+Como última entrega del proyecto, **SafeWork** logro convertirse en una aplicación robusta capaz de resolver con la problematica incial planteada. Finalizamos con el Backend y lo conectamos con el Frontend de nuestro producto, lo que nos permite a nosotros y a nuestros potenciales usuarios utilizar **SafeWork** como una herramienta de organización de accidentes durante el trabajo. En esta entrega, corregimos errores y problemas que tuvimos en la TB2 y TP, organizamos nuestras ideas y logramos desarrollar la versión mas cercana a nuestra visión original de **SafeWork**.
+
 ## **Video About-the-Team.**  
 La presente sección incluye el video del equipo que resume nuestro avance y trabajo a lo largo del proyecto.
 
-LINK: **FALTA SUBIR**
+Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
 
 # Bibliografía
 
