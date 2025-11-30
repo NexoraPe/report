@@ -1959,7 +1959,9 @@ Se evidencia la documentación de los servicios empleados:
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-Link del Backend Desplegado: [Backend desplegado](LINK)
+Link del Frontend Desplegado: [Frontend desplegado](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/login)
+
+Link del Backend Desplegado: [Backend desplegado](http://backend-safework.azurewebsites.net)
 
 <figure>
   <img src="imgs/img_2backend.png" alt="Backend despliegue" style="width:700px; max-width:100%; height:auto; display:block; margin:16px auto;">
@@ -2318,7 +2320,9 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder a la [landing page](https://nexorape.github.io/Landing-Page/index.html)
 
-- Enlace para acceder al [frontend](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/)
+- Enlace para acceder al [Frontend desplegado](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/login)
+
+- Enlace para acceder al [Backend desplegado](http://backend-safework.azurewebsites.net)
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
