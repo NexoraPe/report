@@ -1967,15 +1967,15 @@ Link del Backend Desplegado: [Backend desplegado](LINK)
 
 * Reporte
 
-\*img\*
+![imgs/ReportInsights-SP4.png](imgs/ReportInsights-SP4.png)
 
 * Frontend
 
-\*img\*
+![imgs/FrontInsights-SP4.png](imgs/FrontInsights-SP4.png)
 
 * Backend
 
-\*img\*
+![imgs/BackInsights-SP4.png](imgs/BackInsights-SP4.png)
 
 
 ## **5.3. Validation Interviews**  
