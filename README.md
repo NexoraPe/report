@@ -1927,6 +1927,8 @@ Frontend
 
 Se evidencia el avance del Cuarto Sprint por medio de las siguuientes capturas: 
 
+![imgs/EvidenceBackSwagger.jpg](imgs/EvidenceBackSwagger.jpg)
+
 ![imgs/EvidenceSprint4-1.jpg](imgs/EvidenceSprint4-1.jpg)
 
 ![imgs/EvidenceSprint4-2.jpg](imgs/EvidenceSprint4-2.jpg)
