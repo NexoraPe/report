@@ -1254,17 +1254,17 @@ En el presente diagrama se observa como desde el login se tiene la opción de ab
 
 ### 4.4.3. Web Applications Mock-ups.
 
-<img width="622" height="548" alt="Image" src="https://github.com/user-attachments/assets/ccde196c-b4a1-4153-943f-ef677e4d6ea9" />
+![imgs](./imgs/WebAppMock1.png)
 
-<img width="644" height="558" alt="Image" src="https://github.com/user-attachments/assets/9e04da77-3939-4288-8d9a-16bfe79626bb" />
+![imgs](./imgs/WebAppMock2.png)
 
-<img width="628" height="556" alt="Image" src="https://github.com/user-attachments/assets/c4ed98aa-16ff-4f0a-9dee-3b6501314d6b" />
+![imgs](./imgs/WebAppMock3.png)
 
-<img width="624" height="556" alt="Image" src="https://github.com/user-attachments/assets/fd54f64d-1bd5-4be8-9d8b-fedcc22917dc" />
+![imgs](./imgs/WebAppMock4.png)
 
-<img width="627" height="554" alt="Image" src="https://github.com/user-attachments/assets/5a238aa1-486d-4904-b5c9-fcac2c47aede" />
+![imgs](./imgs/WebAppMock5.png)
 
-<img width="623" height="555" alt="Image" src="https://github.com/user-attachments/assets/369e3c38-9da7-47f8-b7ce-ce7e85551456" />
+![imgs](./imgs/WebAppMock6.png)
 
 <img width="619" height="548" alt="Image" src="https://github.com/user-attachments/assets/e14c5e31-2228-483e-997b-f2d87287bd55" />
 
