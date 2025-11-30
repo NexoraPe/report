@@ -1929,6 +1929,18 @@ Se evidencia el avance del Cuarto Sprint por medio de las siguuientes capturas:
 
 ![imgs/EvidenceSprint4-3.jpg](imgs/EvidenceSprint4-3.jpg)
 
+![imgs/EvidenceSprint4-4.jpg](imgs/EvidenceSprint4-4.jpg)
+
+![imgs/EvidenceSprint4-5.jpg](imgs/EvidenceSprint4-5.jpg)
+
+![imgs/EvidenceSprint4-6.jpg](imgs/EvidenceSprint4-6.jpg)
+
+![imgs/EvidenceSprint4-7.jpg](imgs/EvidenceSprint4-7.jpg)
+
+![imgs/EvidenceSprint4-8.jpg](imgs/EvidenceSprint4-8.jpg)
+
+![imgs/EvidenceSprint4-9.jpg](imgs/EvidenceSprint4-9.jpg)
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 Se evidencia la documentación de los servicios empleados:  
