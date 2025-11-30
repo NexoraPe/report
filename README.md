@@ -1890,26 +1890,27 @@ Frontend
 | :---: | ----- | :---: | ----- | ----- | :---: | :---: | :---: |
 | **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| **US\#\#** |  | **T01** |  |  |  | Vidal Castro, Miguel Angel | Done |
-| **US\#\#** |  | **T02** |  |  |  | Vidal Castro, Miguel Angel | Done |
-| **US\#\#** |  | **T03** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US\#\#** |  | **T04** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US\#\#** |  | **T05** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
-| **US\#\#** |  | **T06** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
-| **US\#\#** |  | **T07** |  |  |  | Vidal Castro, Miguel Angel | Done |
-| **US\#\#** |  | **T08** |  |  |  | Vidal Castro, Miguel Angel | To-do |
-| **US\#\#** |  | **T09** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US\#\#** |  | **T10** |  |  |  | Cacho Seminario, Diego Alonso | To-do |
-| **US\#\#** |  | **T11** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
-| **US\#\#** |  | **T12** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
-| **US\#\#** |  | **T13** |  |  |  | Vidal Castro, Miguel Angel | Done |
-| **US\#\#** |  | **T14** |  |  |  | Vidal Castro, Miguel Angel | To-do |
-| **US\#\#** |  | **T15** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US\#\#** |  | **T16** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US21** | Recepción inmediata de notificaciones | **T17** | Recepción inmediata de notificaciones | Integrar un sistema de mensajería push (WebSockets o Firebase) que actualice al usuario sin necesidad de refrescar la página. | **6** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T01** | Refactor Incident Lifecycle Security | Eliminar uso del parámetro userId y obtenerlo desde el token en todo el flujo de incidentes. | **5** | Vidal Castro, Miguel Angel | Done |
+| **\-** | **\-** | **T02** | Token generation & Incident filtering | Mejorar la generación de tokens y refactorizar el endpoint getAllIncidents para filtrar según rol y companyId. | **6** | Vidal Castro, Miguel Angel | Done |
+| **\-** | **\-** | **T03** | Configure CORS & Allowed Methods | Definir reglas específicas de CORS y métodos permitidos para mayor seguridad. | **3** | Cacho Seminario, Diego Alonso | Done |
+| **\-** | **\-** | **T04** | OpenAPI & Spring Security JWT | Activar documentación OpenAPI y configurar Spring Security con autenticación JWT bearer. | **4** | Cacho Seminario, Diego Alonso | Done |
+| **\-** | **\-** | **T05** | Incident Lifecycle Events | Incident Lifecycle Events | **5** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T06** | Assignment Assemblers | Assignment Assemblers | **4** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T07** | Assignment Resources | Definir records AssignmentResource y CreateAssignmentResource para manejo de asignaciones. | **3** | Vidal Castro, Miguel Angel | Done |
+| **\-** | **\-** | **T08** | Assignment Query Service Impl | Implementar AssignmentQueryServiceImpl y actualizar IncidentCommandService para soportar asignaciones. | **6** | Vidal Castro, Miguel Angel | To-do |
+| **\-** | **\-** | **T09** | Assignment Query Service Interface | Crear interfaz AssignmentQueryService y actualizar IncidentCommandService. | **3** | Cacho Seminario, Diego Alonso | Done |
+| **\-** | **\-** | **T10** | Incident Entity assignTo | Agregar relación de asignación y método assignTo en la entidad Incident. | **4** | Cacho Seminario, Diego Alonso | To-do |
+| **\-** | **\-** | **T11** | Incident Resources Enhancement | Incident Resources Enhancement | **3** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T12** | Incidents Controller | Incidents Controller | **5** | Castro Sanchez, Amir Gabriel | Done |
+| **\-** | **\-** | **T13** | Restore User Session | Implementar lógica para restaurar sesión de usuario usando token tras refresco. | **4** | Vidal Castro, Miguel Angel | Done |
+| **\-** | **\-** | **T14** | Fix assignTo usage | Asegurar que se use onAssignTo y no se confunda con onUpdateChange. | **2** | Vidal Castro, Miguel Angel | To-do |
+| **\-** | **\-** | **T15** | Assignments Board UI | Mejorar diseño del tablero de asignaciones (background y título). | **3** | Cacho Seminario, Diego Alonso | Done |
+| **\-** | **\-** | **T16** | Mock Assignments Card Flow | Implementar diseño mock de tarjetas de asignaciones y lógica de cambio de estado. | **5** | Cacho Seminario, Diego Alonso | Done |
+| **\-** | **\-** | **T17** | Incidents Dashboard | Implementar dashboard parcial con lista, filtrado por estado y componentes de tarjetas de incidentes. | **6** | Castro Sanchez, Amir Gabriel | Done |
+| **US21** | Recepción inmediata de notificaciones | **T18** | Recepción inmediata de notificaciones | Integrar un sistema de mensajería push (WebSockets o Firebase) que actualice al usuario sin necesidad de refrescar la página. | **6** | Castro Sanchez, Amir Gabriel | Done |
 | **US38** | Aviso instantáneo de nuevas tareas | **T19** | Aviso instantáneo de nuevas tareas | Configurar alertas automáticas vía correo electrónico y dentro de la aplicación cuando se cree una nueva tarea asignada. | **5** | Castro Sanchez, Amir Gabriel | Done |
-| **\-** | **\-** | **T\#\#** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
-| **\-** | **\-** | **T\#\#** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
+| **\-** | **\-** | **T20** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
+| **\-** | **\-** | **T21** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 
