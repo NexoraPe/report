@@ -2282,7 +2282,7 @@ Como última entrega del proyecto, **SafeWork** logro convertirse en una aplicac
 ## **Video About-the-Team.**  
 La presente sección incluye el video del equipo que resume nuestro avance y trabajo a lo largo del proyecto.
 
-Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
+Enlace para acceder al [About the Team]([https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQCzn1qCbGhTSJQa60lfsbzPAbwqfXy7KnTpOgtrltjeMHc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=92lx6L))
 
 # Bibliografía
 
@@ -2317,6 +2317,6 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQAzoY-bmuwBSp9-8l_nLt5sAfa8ZZfpB4v3ezAbo7nrMi8?e=oWLtZ6)
 
-- Enlace para acceder al [About the Team](https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH)
+- Enlace para acceder al [About the Team]([https://1drv.ms/v/c/815de42f4c97b3c1/IQA-0temdwL-TpX76noegUJ-AfAHh2aZmRsr2X_HM7TWvpQ?e=JM0zqH](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQCzn1qCbGhTSJQa60lfsbzPAbwqfXy7KnTpOgtrltjeMHc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=92lx6L))
 
 
