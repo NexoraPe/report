@@ -92,23 +92,26 @@ COURSE PROJECT
 
 **TB2:**
 
-Reporte
+* Reporte
 ![imgs/ReportInsightsTB2.png](imgs/ReportInsightsTB2.png)
 
-Frontend
+* Frontend
 ![imgs/FrontInsightsTB2.png](imgs/FrontInsightsTB2.png)
 
 
 **TF:**
 
-Reporte
-![imgs/......png](imgs/......png)
+* Reporte
 
-Frontend
-![imgs/......png](imgs/......png)
+![imgs/ReportInsights-SP4.png](imgs/ReportInsights-SP4.png)
 
-Backend
-![imgs/......png](imgs/......png)
+* Frontend
+
+![imgs/FrontInsights-SP4.png](imgs/FrontInsights-SP4.png)
+
+* Backend
+
+![imgs/BackInsights-SP4.png](imgs/BackInsights-SP4.png)
 
 ---
 
