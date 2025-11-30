@@ -2266,7 +2266,7 @@ Se presenta una lista de puntuación para la calificación de las tareas.
 ## **5.4. Video About-the-Product.**  
 La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
 
-Enlace para acceder al [About the Product](link)
+Enlace para acceder al [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/IQBnSvmWkYGWQrJqyLC4RmGLAUipRIZtNFngk2h6yLCTDis?e=MgI4rU)
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
