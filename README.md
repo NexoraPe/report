@@ -1459,7 +1459,7 @@ En esta sección se presentan los diagramas de base de datos correspondientes a 
 Los diagramas muestran las tablas, sus columnas, tipos de datos, claves primarias y foráneas, 
 así como las relaciones entre las tablas, garantizando la persistencia correcta de la información.
 
-![DatabaseDiagram](./imgs/DatabaseDiagram.png)
+![DatabaseDiagram](https://github.com/user-attachments/assets/2923df94-46fe-4472-9dd5-c19b86bc96f8)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
