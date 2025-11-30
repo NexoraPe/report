@@ -1903,21 +1903,21 @@ Frontend
 | **US\#\#** |  | **T14** |  |  |  | Vidal Castro, Miguel Angel | To-do |
 | **US\#\#** |  | **T15** |  |  |  | Cacho Seminario, Diego Alonso | Done |
 | **US\#\#** |  | **T16** |  |  |  | Cacho Seminario, Diego Alonso | Done |
-| **US\#\#** |  | **T17** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
-| **US\#\#** |  | **T18** |  |  |  | Castro Sanchez, Amir Gabriel | Done |
+| **US21** | Recepción inmediata de notificaciones | **T17** | Recepción inmediata de notificaciones | Integrar un sistema de mensajería push (WebSockets o Firebase) que actualice al usuario sin necesidad de refrescar la página. | **6** | Castro Sanchez, Amir Gabriel | Done |
+| **US38** | Aviso instantáneo de nuevas tareas | **T19** | Aviso instantáneo de nuevas tareas | Configurar alertas automáticas vía correo electrónico y dentro de la aplicación cuando se cree una nueva tarea asignada. | **5** | Castro Sanchez, Amir Gabriel | Done |
 | **\-** | **\-** | **T\#\#** | Avance del Documento | Avance del Documento en Google Docs/Github | **5** | Everyone | Done |
 | **\-** | **\-** | **T\#\#** | Organización del Código | Organización del Código del Frontend/Backend | **5** | Everyone | Done |
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-| :---: | :---: | :---: | ----- | :---: | :---: |
-| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2630cd9 | feat: Enchance token generation with new paremeters and refactored get All incidents endpoint. | \- Incidents endpoint now use the token, and do the filter according to the user session role and company id from the token, if its not an admin, then the getall endpoint its going to just get all incidents from the company, if its admin then all the incidents globally | 26/11/25 |
+| :---: | :---: | :---: | ----- | ----- | :---: |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2630cd9 | feat: Enchance token generation with new paremeters and refactored get All incidents endpoint. | Incidents endpoint now use the token, and do the filter according to the user session role and company id from the token, if its not an admin, then the getall endpoint its going to just get all incidents from the company, if its admin then all the incidents globally | 26/11/25 |
 | [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master |  2f35c3d  | feat: Enchanced company seeding and added new company query. | \- | 26/11/25 |
+| [https://github.com/NexoraPe/backend-safework.git](https://github.com/NexoraPe/backend-safework.git)  | /master | ff8876e | feat: Activated OpenAPI documentation and Spring Security configuration with JWT bearer authentication. | \- | 25/11/25 |
 | [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master | dbe628d | ci: add Azure Static Web Apps workflow file | \- | 09/10/25 |
-| [https://github.com/NexoraPe/front-safework.git](https://github.com/NexoraPe/front-safework.git)  | /master |  |  | \- | /11/25 |
-| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
-| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main |  |  | \- | /11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main | c03e238 | docs: add Sprint 4 details, team changes and a conclusion | Added the Sprint 4 details, team changes and a conclusion to the main report. | 27/11/25 |
+| [https://github.com/NexoraPe/report.git](https://github.com/NexoraPe/report.git)  | /main | 3569e6b | docs: updated report assets | Updated the report assets | 27/11/25 |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review. 
 
