@@ -2324,7 +2324,7 @@ Metas de los ODS pertinentes vinculados con la seguridad y la salud en el lugar 
 
 - Enlace para acceder al [Frontend desplegado](https://delightful-glacier-03ccd4010.1.azurestaticapps.net/login)
 
-- Enlace para acceder al [Backend desplegado](http://backend-safework.azurewebsites.net)
+- Enlace para acceder al [Backend desplegado]([http://backend-safework.azurewebsites.net](https://backend-safework.azurewebsites.net/swagger-ui/index.html#/))
 
 - Enlace para acceder a la [organización de github](https://github.com/NexoraPe)
 
